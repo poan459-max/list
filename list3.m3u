@@ -8,42 +8,23 @@ https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Россия 1
 https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
+#EXTINF:-1 tvg-name="Россия 24"tvg-id=""tvg-logo="https://i.ibb.co/yPXTY3Q/resize-42.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Россия 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Россия 24
 https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Россия К
 https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=igQsAY6jjMrZlDidg-nMDA&e=2069285048&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",НТВ
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Мир24
-https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Мир +7
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Мир +2
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",RT Doc HD
-https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",TPO
-https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",5 Канал
-https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТВЦ
-https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТВ-3
-https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Рен-ТВ
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",СТС
 https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",CTC Love
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТНТ 4
-https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Че!
-https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Ю
-https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ОТР
-https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Домашний
 https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 tvg-name="Домашний"tvg-id=""tvg-logo="https://i.ibb.co/5r7dhSC/resize-10.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Домашний
@@ -51,11 +32,42 @@ https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Домашний
 http://46.53.208.4:80/live/961.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JTwJq1Qt3nhrVHiVIUvzgA&e=2069285049&scheme=https
+#EXTINF:-1 tvg-name="ТНТ"tvg-id=""tvg-logo="https://i.ibb.co/nr0W6kC/resize-47.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Пятнитца!
 https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
 #EXTINF:-1 tvg-name="Супер"tvg-id=""tvg-logo="https://i.ibb.co/QNZcdVz/resize-57.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Ю
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТВЦ
+https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",5 Канал
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТНТ4 HD
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=ASTxN-Kvwh5VgZzRYvkbcQ&e=2069285049&scheme=https
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТНТ 4
+https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",RT Doc HD
+https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Мир24
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",TPO
+https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТВ-3
+https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Че!
+https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ОТР
+https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",8 Канал
 https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Красная Линия
@@ -2194,9 +2206,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset
 #EXTINF:-1 tvg-name="Россия 24"tvg-id=""tvg-logo="https://i.ibb.co/yPXTY3Q/resize-42.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 tvg-name="Россия 24"tvg-id=""tvg-logo="https://i.ibb.co/yPXTY3Q/resize-42.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Россия 24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Россия 24 +2"tvg-id=""tvg-logo="https://i.ibb.co/yPXTY3Q/resize-42.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Россия 24 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2//variant.m3u8?version=2
@@ -2674,9 +2683,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offs
 #EXTINF:-1 tvg-name="Домашний -30ч"tvg-id=""tvg-logo="https://i.ibb.co/5r7dhSC/resize-10.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Домашний (-30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-108000
-#EXTINF:-1 tvg-name="ТНТ"tvg-id=""tvg-logo="https://i.ibb.co/nr0W6kC/resize-47.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",ТНТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-name="ТНТ (+2)"tvg-id=""tvg-logo="https://i.ibb.co/nr0W6kC/resize-47.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
@@ -8671,8 +8677,6 @@ https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=jH
 https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=QKJvjAHdCmOwvCYdKLFYLQ&e=2066519818&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=KRpRtdju100oOaCoxpKyPg&e=2066519750&scheme=https
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=igQsAY6jjMrZlDidg-nMDA&e=2069285048&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",НТС (Иркутск) HD
 https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=kYL35o_hKo4QqOuOmU-0ug&e=2066519816&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",НТС Иркутск
@@ -8806,11 +8810,7 @@ https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=In
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТМК HD
 https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=HXdOb9tCHfkHfjFLxpmTJg&e=2066519810&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JTwJq1Qt3nhrVHiVIUvzgA&e=2069285049&scheme=https
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТНТ HD
 https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=Ksmj0r7a74fBupCV1zhgxQ&e=2066519751&scheme=https
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=ASTxN-Kvwh5VgZzRYvkbcQ&e=2069285049&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=33h8x0WD4pYRIQ77h5Wg_Q&e=2066519752&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТОЛК
