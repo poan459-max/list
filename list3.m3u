@@ -12,7 +12,7 @@ https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
 https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Российские"catchup=""catchup-source=""catchup-days="":http-user-agent="",Россия К
 https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Российские"catchup=""catchup-source=""catchup-days="":http-user-agent="TiviMate/2.8.0",НТВ HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Российские"catchup=""catchup-source=""catchup-days="":http-user-agent="",НТВ HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=375
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Российские"catchup=""catchup-source=""catchup-days="":http-user-agent="",НТВ
