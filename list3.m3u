@@ -8,7 +8,7 @@ https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Россия 1
 https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
-#EXTINF:-1 tvg-name="Россия 24"tvg-id=""tvg-logo="https://i.ibb.co/yPXTY3Q/resize-42.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Россия 24 HD
+#EXTINF:-1 tvg-name="Россия 24"tvg-id=""tvg-logo=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Россия 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Россия 24
@@ -27,19 +27,17 @@ https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Домашний
 https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
-#EXTINF:-1 tvg-name="Домашний"tvg-id=""tvg-logo="https://i.ibb.co/5r7dhSC/resize-10.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Домашний
+#EXTINF:-1 tvg-name="Домашний"tvg-id=""tvg-logo=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Домашний
-http://46.53.208.4:80/live/961.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JTwJq1Qt3nhrVHiVIUvzgA&e=2069285049&scheme=https
-#EXTINF:-1 tvg-name="ТНТ"tvg-id=""tvg-logo="https://i.ibb.co/nr0W6kC/resize-47.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",ТНТ
+#EXTINF:-1 tvg-name="ТНТ"tvg-id=""tvg-logo=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Пятнитца!
 https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
-#EXTINF:-1 tvg-name="Супер"tvg-id=""tvg-logo="https://i.ibb.co/QNZcdVz/resize-57.png"group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Суббота
+#EXTINF:-1 tvg-name="Супер"tvg-id=""tvg-logo=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Ю
