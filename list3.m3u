@@ -223,7 +223,7 @@ https://kino.zunotv.workers.dev/black_hd/index.m3u8
 https://kino.zunotv.workers.dev/red_hd/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",.sci-fi HD
 https://kino.zunotv.workers.dev/sci_fi_hd/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="amedia1"tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia 1 HD
+#EXTINF:-1 tvg-name=""tvg-id="amedia1"tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia HD
 https://kino.zunotv.workers.dev/amedia_1_hd/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="amedia2"tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia 2 HD
 https://kino.zunotv.workers.dev/amedia_2_hd/index.m3u8
@@ -423,7 +423,7 @@ https://kino.zunotv.workers.dev/SKY_HIGH_NATURE_FHD/index.m3u8
 https://kino.zunotv.workers.dev/SKY_HIGH_SCREAM_FHD/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",SKY HIGH FEAR VHS FHD
 https://kino.zunotv.workers.dev/SKY_HIGH_FEAR_VHS_FHD/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",SKY HIGH JETIX HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",JETIX HD
 https://kino.zunotv.workers.dev/SKY_HIGH_JETIX_HD/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",SKY HIGH BRICK S FHD
 https://kino.zunotv.workers.dev/SKY_HIGH_BRICK_S_FHD/index.m3u8
