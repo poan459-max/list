@@ -135,7 +135,7 @@ https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Русский Роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Sci Fi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",.Sci-Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",БормотухаТВ
 http://185.57.68.33:8091/255/index.m3u8
