@@ -3754,10 +3754,6 @@ https://kino-stream.online/hls/DTRMUSIC1.m3u8
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w2089520607_b1896000.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/jmgCPJV/image-4.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Energy DJ
 https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/chunklist_w850439264_b1896000.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/WvfxnVxM/image-14.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Eu music HD
-http://bpl.online24.pm/play/7186/75BA4FC1CA5013E/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/FbSz34Wq/image-11.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",UA Music HD
-http://bpl.online24.pm/play/351/75BA4FC1CA5013E/video.m3u8
 #EXTINF:-1 tvg-name="Europa Plus TV"tvg-id=""tvg-logo="https://i.ibb.co/Z1XTNMjb/image-14.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Europa Plus TV
 http://31148.rafail1982.uz/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/qSWFgtX/image-2025-09-01-T193552-802.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Fresh TV
@@ -3766,8 +3762,6 @@ https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 http://s.only4.tv/9425/video.m3u8?token=fWKpoaHaSj
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/hRHJksnR/image-18.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",HIT (Орск)
 http://lova.me/hls/hithd.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/HfYXLCD7/image-16.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Infinity
-https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/NBd79D9/image-33.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",М1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=m1
