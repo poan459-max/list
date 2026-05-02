@@ -3771,9 +3771,6 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/NBd79D9/image-33.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",М1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=m1
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/XTHxZX7/image-32.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",М2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=m2
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/hF4LyYQK/image-21.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Mafi2a Music
 https://rpn3.bozztv.com/dvrfl07/ushba-mafia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/RT6L1F1M/image-4.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",La Cantina Memorias
@@ -3830,8 +3827,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/8nDDfGK6/image-79.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",TMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/w8wgHRr/image-2025-08-31-T114414-385.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Trance Is Star Radio
-https://myradio24.org/tisradio_video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/cc3v2v7Z/image-11.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",VANTAGE DANCE
 https://cdn-non-eu.lulzy.eu/vdance_stream/main_stream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/gLM25VfS/image-12.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",VANTAGE MUSIC
