@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Первый канал HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
+#EXTM3U
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия 1
@@ -131,9 +130,33 @@ https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",.Sci-Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz,http://uztv.su/uploads/channelsarch/channels.xml"
 #EXTINF:-1 tvg-name="viju TV1000"tvg-id="vijuTV1000.ru"tvg-logo="https://i.imgur.com/ZMsyjSr.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 HD
 http://tmptv.sunduk.tv/CH3869/index.m3u8
+#EXTINF:-1 tvg-name="TV1000 Action East"tvg-id="vijuTV1000action.ru"tvg-logo="https://i.imgur.com/TMmyuzh.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 Action HD
+http://tmptv.sunduk.tv/CH3867/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 русское кино
+http://tv.ttk.mx:9183
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="TiviMate/2.8.0",viju TV1000 Новелла
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=381
+#EXTINF:-1 tvg-name="ViP Premiere"tvg-id="vijuPlusPremiere.ru"tvg-logo="https://i.imgur.com/klRvhR5.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Premiere HD
+http://tmptv.sunduk.tv/CH315/index.m3u8
+#EXTINF:-1 tvg-name="TV1000 Megahit"tvg-id="vijuPlusMegahit.ru"tvg-logo="https://i.imgur.com/oIQNddV.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Megahit HD
+http://tmptv.sunduk.tv/CH313/index.m3u8
+#EXTINF:-1 tvg-name="ViP Comedy"tvg-id="vijuPlusComedy.ru"tvg-logo="https://i.imgur.com/YoNOFu7.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Comedy HD
+http://tmptv.sunduk.tv/CH311/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Serial
+http://37.46.49.14:18010/play/a02p/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju History
+http://89.218.32.179:18000/play/a02x
+#EXTINF:-1 tvg-name="Viju Nature"tvg-id="vijuNature.ru"tvg-logo="https://i.imgur.com/8BPZ18l.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju Nature
+http://tmptv.sunduk.tv/CH203/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju Explore
+http://89.218.32.179:18000/play/a02w
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/VYfdJ04L/image-41.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Sport
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Planet
+http://37.46.49.14:18010/play/a02o/index.m3u8
 #EXTINF:-1 tvg-name="viju TV1000"tvg-id="vijuTV1000.ru"tvg-logo="https://i.imgur.com/ZMsyjSr.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000
 http://tmptv.sunduk.tv/CH141/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="TiviMate/2.8.0",viju TV1000
@@ -151,8 +174,6 @@ http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000
 http://45.145.32.13:20440/tv1000/index.m3u8?token=test
-#EXTINF:-1 tvg-name="TV1000 Action East"tvg-id="vijuTV1000action.ru"tvg-logo="https://i.imgur.com/TMmyuzh.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 Action HD
-http://tmptv.sunduk.tv/CH3867/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 action
 http://89.218.32.179:18000/play/a02u
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 action
@@ -169,8 +190,6 @@ http://tmptv.sunduk.tv/CH143/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 русское кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 русское кино
-http://tv.ttk.mx:9183
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 русское кино
 http://89.218.32.179:18000/play/a02t
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="TiviMate/2.8.0",viju TV1000 Русское
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
@@ -183,61 +202,32 @@ http://tmptv.sunduk.tv/CH139/index.m3u8
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju TV1000 Новелла HD
 http://89.218.32.179:18000/play/a030
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="TiviMate/2.8.0",viju TV1000 Новелла
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/?ID=381
-#EXTINF:-1 tvg-name="ViP Premiere"tvg-id="vijuPlusPremiere.ru"tvg-logo="https://i.imgur.com/klRvhR5.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Premiere HD
-http://tmptv.sunduk.tv/CH315/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Premiere
 http://37.46.49.14:18010/play/a02i/index.m3u8
-#EXTINF:-1 tvg-name="TV1000 Megahit"tvg-id="vijuPlusMegahit.ru"tvg-logo="https://i.imgur.com/oIQNddV.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Megahit HD
-http://tmptv.sunduk.tv/CH313/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Megahit
 http://37.46.49.14:18010/play/a02j/index.m3u8
-#EXTINF:-1 tvg-name="ViP Comedy"tvg-id="vijuPlusComedy.ru"tvg-logo="https://i.imgur.com/YoNOFu7.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Comedy HD
-http://tmptv.sunduk.tv/CH311/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Comedy
 http://37.46.49.14:18010/play/a02k/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Serial
-http://37.46.49.14:18010/play/a02p/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="TiviMate/2.8.0",viju+ History
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/?ID=264
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju History
-http://89.218.32.179:18000/play/a02x
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://rafail1982.uz/logo/Viju History.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="TiviMate",Viju History
-#EXTVLCOPT:http-user-agent=TiviMate
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Viju History"tvg-id="vijuHistory.ru"tvg-logo="https://i.imgur.com/FqWkeXb.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju History
 http://tmptv.sunduk.tv/CH133/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju Nature
 http://89.218.32.179:18000/play/a02y
-#EXTINF:-1 tvg-name="Viju Nature"tvg-id="vijuNature.ru"tvg-logo="https://i.imgur.com/8BPZ18l.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju Nature
-http://tmptv.sunduk.tv/CH203/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju Explore
-http://89.218.32.179:18000/play/a02w
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="TiviMate",Viju Sport HD
-#EXTVLCOPT:http-user-agent=TiviMate
-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/VYfdJ04L/image-41.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Sport
-https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Sport
-http://37.46.49.14:18010/play/a02h/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Sport"tvg-id="vijuPlusSport.ru"tvg-logo="https://i.imgur.com/fXESG0l.png"tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Sport
 http://tmptv.sunduk.tv/CH131/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Planet
-http://37.46.49.14:18010/play/a02o/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Факты
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Детское
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Детское
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Праздник
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Праздник
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Классика
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Классика
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Мужское
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Мужское
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Любовь
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
