@@ -150,15 +150,13 @@ http://tmptv.sunduk.tv/CH311/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Serial
 http://37.46.49.14:18010/play/a02p/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju History
-http://89.218.32.179:18000/play/a02x
+http://37.46.49.14:18010/play/a02f/index.m3u8
 #EXTINF:-1 tvg-name="Viju Nature"tvg-id="vijuNature.ru"tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju Nature
 http://tmptv.sunduk.tv/CH203/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju Explore
-http://89.218.32.179:18000/play/a02w
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Sport
 https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",viju+ Planet
-http://37.46.49.14:18010/play/a02o/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Детское
@@ -171,144 +169,138 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kino 24
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сериалы Турции
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сериалы Турции
 https://stream.zuno-tv.workers.dev/channel/9090/1a838d17/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Вестерн
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Вестерн
 https://stream.zuno-tv.workers.dev/channel/9090/n528273d6/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Счастливы Вместе
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Счастливы Вместе
 https://stream.zuno-tv.workers.dev/channel/9090/n7accaef4/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Бесстыжие
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Бесстыжие
 https://stream.zuno-tv.workers.dev/channel/9090/n50f17f9e/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Владимир Высоцкий
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Владимир Высоцкий
 https://stream.zuno-tv.workers.dev/channel/9090/1c358a0e/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Два с половиной человека
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Два с половиной человека
 https://stream.zuno-tv.workers.dev/channel/9090/n61eb0115/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Новогодний
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Новогодний
 https://stream.zuno-tv.workers.dev/channel/9090/d65b946/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ёлки
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ёлки
 https://stream.zuno-tv.workers.dev/channel/9090/19a06d1c/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Гарри Поттер
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Гарри Поттер
 https://stream.zuno-tv.workers.dev/channel/9091/75b2c293/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Секс в большом городе
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Секс в большом городе
 https://stream.zuno-tv.workers.dev/channel/9090/3981b951/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Теория большого взрыва
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Теория большого взрыва
 https://stream.zuno-tv.workers.dev/channel/9090/63fad5f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Adventure
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Adventure
 https://stream.zuno-tv.workers.dev/channel/9090/n7b2b1a94/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Anime
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Anime
 https://stream.zuno-tv.workers.dev/channel/9090/n1c340330/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Cartoon
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Cartoon
 https://stream.zuno-tv.workers.dev/channel/9090/74dfb4ca/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Comedy
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Comedy
 https://stream.zuno-tv.workers.dev/channel/9090/n66d2e643/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Fantasy
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Fantasy
 https://stream.zuno-tv.workers.dev/channel/9090/1359d482/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Melodrama
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Melodrama
 https://stream.zuno-tv.workers.dev/channel/9090/n2090b378/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ужасы
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ужасы
 https://stream.zuno-tv.workers.dev/channel/9090/1c49ef83/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF VHS MIX
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF VHS MIX
 https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ужасы VHS
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ужасы VHS
 https://stream.zuno-tv.workers.dev/channel/9090/nffb23c/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Premiere
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Premiere
 https://stream.zuno-tv.workers.dev/channel/9090/n25c46863/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Классика
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Классика
 https://stream.zuno-tv.workers.dev/channel/9090/6197a3c3/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Classic
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Classic
 https://stream.zuno-tv.workers.dev/channel/9090/n794af212/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Комедия
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Комедия
 https://stream.zuno-tv.workers.dev/channel/9090/63bea0ca/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Катастрофы
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Катастрофы
 https://stream.zuno-tv.workers.dev/channel/9090/n39976b52/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Marvel
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Marvel
 https://stream.zuno-tv.workers.dev/channel/9090/n5685335d/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Военные
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Военные
 https://stream.zuno-tv.workers.dev/channel/9090/n43d216d1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Наша победа
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Наша победа
 https://stream.zuno-tv.workers.dev/channel/9090/n30e8cca0/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Мосфильм
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Мосфильм
 https://stream.zuno-tv.workers.dev/channel/9090/n12cab184/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Мультфильмы СССР
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Мультфильмы СССР
 https://stream.zuno-tv.workers.dev/channel/9090/dd63185/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Боевик
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Боевик
 https://stream.zuno-tv.workers.dev/channel/9090/4eaf9130/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Кино 4K
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Кино 4K
 https://stream.zuno-tv.workers.dev/channel/9090/5983ec54/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF TOP Series
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF TOP Series
 https://stream.zuno-tv.workers.dev/channel/9090/313bb8e6/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Art house
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Art house
 https://stream.zuno-tv.workers.dev/channel/9090/5343ad7f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Fantastic
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Fantastic
 https://stream.zuno-tv.workers.dev/channel/9090/n5bc949a9/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сваты
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сваты
 https://stream.zuno-tv.workers.dev/channel/9090/1c2bef24/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Солдаты
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Солдаты
 https://stream.zuno-tv.workers.dev/channel/9090/n2a045a21/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Тайны следствия
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Тайны следствия
 https://stream.zuno-tv.workers.dev/channel/9090/1443d724/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Воронины
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Воронины
 https://stream.zuno-tv.workers.dev/channel/9090/n239d9f09/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Универ
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Универ
 https://stream.zuno-tv.workers.dev/channel/9090/6d5a11a3/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF След
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF След
 https://stream.zuno-tv.workers.dev/channel/9090/19aef85d/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сериал
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сериал
 https://stream.zuno-tv.workers.dev/channel/9090/69835d3b/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Thriller
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Thriller
 https://stream.zuno-tv.workers.dev/channel/9090/7eba127c/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Индия
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Индия
 https://stream.zuno-tv.workers.dev/channel/9090/1bb22982/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF История
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF История
 https://stream.zuno-tv.workers.dev/channel/9090/n967a72/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Comics
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Comics
 https://stream.zuno-tv.workers.dev/channel/9090/n66d2d764/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Криминал
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Криминал
 https://stream.zuno-tv.workers.dev/channel/9090/777315be/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Леонид Гайдай
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Леонид Гайдай
 https://stream.zuno-tv.workers.dev/channel/9090/n378da818/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Эльдар Рязанов
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Эльдар Рязанов
 https://stream.zuno-tv.workers.dev/channel/9090/2392d973/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Доктор Хаус
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Доктор Хаус
 https://stream.zuno-tv.workers.dev/channel/9090/n4b454c4f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Modern Talking
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Modern Talking
 https://stream.zuno-tv.workers.dev/channel/9090/n309c3147/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Rock
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Rock
 https://stream.zuno-tv.workers.dev/channel/9090/17e50789/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Караоке
-https://stream.zuno-tv.workers.dev/channel/9090/4c1105ef/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Шансон
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Шансон
 https://stream.zuno-tv.workers.dev/channel/9090/752d9a6f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Metal
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Metal
 https://stream.zuno-tv.workers.dev/channel/9090/n1b8ed89d/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Rap
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Rap
 https://stream.zuno-tv.workers.dev/channel/9090/n5a116483/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Хит-парад
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Хит-парад
 https://stream.zuno-tv.workers.dev/channel/9090/n44c8e20f/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Русский рок
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Русский рок
 https://stream.zuno-tv.workers.dev/channel/9090/718b3db0/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Disney Cartoon
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Disney Cartoon
 https://stream.zuno-tv.workers.dev/channel/9090/6b3d5ca6/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Союзмультфильм
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Союзмультфильм
 https://stream.zuno-tv.workers.dev/channel/9090/n2d6853a9/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF VHS Cartoon
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF VHS Cartoon
 https://stream.zuno-tv.workers.dev/channel/9090/n2661f275/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Малыш
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Малыш
 https://stream.zuno-tv.workers.dev/channel/9090/1be4bb40/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Новогодние мультфильмы
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Новогодние мультфильмы
 https://stream.zuno-tv.workers.dev/channel/9090/292969e0/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Авто
-https://stream.zuno-tv.workers.dev/channel/9090/19a71de2/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Домашний повар
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Домашний повар
 https://stream.zuno-tv.workers.dev/channel/9090/n7af86f45/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Путешествия
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Путешествия
 https://stream.zuno-tv.workers.dev/channel/9090/74270aa0/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Рыбалка
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Рыбалка
 https://stream.zuno-tv.workers.dev/channel/9090/n494a299d/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Стройка
-https://stream.zuno-tv.workers.dev/channel/9090/n22e5d5b4/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",КХЛ
@@ -6321,16 +6313,12 @@ https://rpn3.bozztv.com/dvrfl07/ushba15/tracks-v1a1/mono.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba59/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="no_epg_sport"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Канал 2 4K
 https://rpn3.bozztv.com/dvrfl07/ushba47/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_sport"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Украина
-https://rpn3.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="no_epg_sport"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Нейросеть
 https://rpn3.bozztv.com/dvrfl07/ushba104/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="no_epg_sport"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",АНЕКДОТЫ
 https://rpn3.bozztv.com/dvrfl07/ushba81/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="no_epg_sport"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Village Cooking Channel
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_sport"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Украина 2
-https://rpn3.bozztv.com/dvrfl07/ushba12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Беларусь 1 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Беларусь 2 HD
@@ -9354,10 +9342,6 @@ http://37.46.49.14:18010/play/a024/index.m3u8
 http://37.46.49.14:18010/play/a03u/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Curiosity Stream
 http://37.46.49.14:18010/play/a08w/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viasat Explore
-http://37.46.49.14:18010/play/a02e/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viasat History
-http://37.46.49.14:18010/play/a02f/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viasat Nature
 http://37.46.49.14:18010/play/a02g/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Живая Планета
