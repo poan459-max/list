@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Первый канал HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Общественные"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Первый канал
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Общественные"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия 1 HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Общественные"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия 1 HD
 http://176.118.197.101/RossiyaHD/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия 1
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Общественные"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия 1
 https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия 24
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Общественные"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия 24
 https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия К
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Общественные"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия К
 https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="НТВ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=igQsAY6jjMrZlDidg-nMDA&e=2069285048&scheme=https
@@ -37,42 +37,38 @@ https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JTwJq1Qt3nhrVHiVIUvzgA&e=2069285049&scheme=https
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ПЯТНИЦА!
-http://94.230.128.107:8080/Friday/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Ю
-https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТВЦ
-https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",5 Канал
-https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=ASTxN-Kvwh5VgZzRYvkbcQ&e=2069285049&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТНТ4
 https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",RT Documentary HD
-https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир
-http://94.230.128.107:8080/MIR/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир 24
-https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир +7
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир +2
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TPO
-https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ПЯТНИЦА!
+http://94.230.128.107:8080/Friday/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Ю
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТВ-3
 https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир
+http://94.230.128.107:8080/MIR/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир 24
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TPO
+https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ОТР
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",8 Канал
-https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Красная Линия
-https://flussonic.mkpnet.ru/tv-3c6edc849aea7c07/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТВЦ
+https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",5 Канал
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ЛДПР ТВ
 https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Красная Линия
+https://flussonic.mkpnet.ru/tv-3c6edc849aea7c07/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Точка ТВ
 https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Продвижение
@@ -80,9 +76,13 @@ https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
 https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",DuckTV
-https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",8 Канал
+https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",RT Documentary HD
+https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Gulli girl
+https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tiji
 https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Карусель
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
@@ -102,7 +102,7 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=-v
 https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТНТ Music
 https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Жара ТВ
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Жара
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Муз ТВ
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
@@ -185,268 +185,6 @@ http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 http://185.57.68.33:8091/110/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Adventure
-https://tinyurl.com/29qsed6j
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Anime
-https://tinyurl.com/22975vhc
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Art house
-https://tinyurl.com/2ynbnh7y
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Britney Spears
-https://tinyurl.com/29kx2pwr
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Cartoon
-https://tinyurl.com/26xmgw7x
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Cartoon 18+
-https://tinyurl.com/2yv3xnoy
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Classic
-https://tinyurl.com/29wx6k3d
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Comedy
-https://tinyurl.com/27yw9y7q
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Comedy Woman
-https://tinyurl.com/2bak4w33
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Comics
-https://tinyurl.com/2yz7k6fg
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Detective
-https://tinyurl.com/2yllqx2c
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Disney Cartoon
-https://tinyurl.com/2a9acu2a
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Disney Movie
-https://tinyurl.com/24rmqeh5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Family
-https://tinyurl.com/28txhxuv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Fantastic
-https://tinyurl.com/2ysh4k94
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Fantasy
-https://tinyurl.com/23hcvgu6
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF HBO
-https://tinyurl.com/22g36etd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Marvel
-https://tinyurl.com/222cg7ft
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Melodrama
-https://tinyurl.com/2bg62y2d
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Metal
-https://tinyurl.com/2cykcka8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Michael Jackson
-https://tinyurl.com/2774n49t
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Modern Talking
-https://tinyurl.com/29neufow
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Music
-https://tinyurl.com/22l7vlq7
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Mystic
-https://tinyurl.com/23fmc3k8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Netflix
-https://tinyurl.com/2y67gcbu
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF New Year
-https://tinyurl.com/26jzl9mk
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Premiere
-https://tinyurl.com/2d8ytt7s
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Rap
-https://tinyurl.com/2d4ko2kw
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Rock
-https://tinyurl.com/27o9j5a9
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Series
-https://tinyurl.com/2yghxq5z
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF The X-Files
-https://tinyurl.com/29qt39bs
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Thriller
-https://tinyurl.com/24r8ljem
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF TOP Series
-https://tinyurl.com/27he7z3h
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF VHS Cartoon
-https://tinyurl.com/246mjord
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF VHS MIX
-https://tinyurl.com/296ayeoj
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Авто
-https://tinyurl.com/2axoetzk
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Американская история ужасов
-https://tinyurl.com/23c86axc
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Баня
-https://tinyurl.com/24u8mhw2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Без цензуры
-https://tinyurl.com/2bzov4ha
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Беларусьфильм
-https://tinyurl.com/273nhanx
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Бесстыжие
-https://tinyurl.com/28loxzln
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Боевик
-https://tinyurl.com/2ahyy7ey
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Вестерн
-https://tinyurl.com/23y3c6yp
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Владимир Высоцкий
-https://tinyurl.com/2c9p5pof
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Военные
-https://tinyurl.com/2auooerz
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Воронины
-https://tinyurl.com/2byk23gu
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Гарри Поттер
-https://tinyurl.com/2yj2ttkf
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Городок
-https://tinyurl.com/287j5g5n
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Граиндхаус
-https://tinyurl.com/2bwyggsb
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Два с половиной человека
-https://tinyurl.com/279nj7oq
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Джеки Чан
-https://tinyurl.com/234hhwll
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Доктор Хаус
-https://tinyurl.com/2yyvxsk2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Домашний повар
-https://tinyurl.com/2bskan8f
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Друзья
-https://tinyurl.com/2arazl7m
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ёлки
-https://tinyurl.com/26m4hd4h
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ералаш
-https://tinyurl.com/29j5ewx4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Игра престолов
-https://tinyurl.com/23u8cy5o
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Индия
-https://tinyurl.com/2bd6y2zx
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF История
-https://tinyurl.com/26r99kyb
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Каламбур
-https://tinyurl.com/22f7tooe
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Караоке
-https://tinyurl.com/22yh6hau
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Карточный домик
-https://tinyurl.com/2abt9xh7
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Катастрофы
-https://tinyurl.com/2yhcagah
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF КВН
-https://tinyurl.com/29rocwgr
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Кино 4K
-https://tinyurl.com/22zm2zba
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Киностудия им. Горького
-https://tinyurl.com/27z9h88g
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Классика
-https://tinyurl.com/2c468np5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Клиника
-https://tinyurl.com/2dq22kd7
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Комедия
-https://tinyurl.com/2cqyp3jt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Концерты
-https://tinyurl.com/2538ofxs
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Король и Шут
-https://tinyurl.com/24yvwdx2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Криминал
-https://tinyurl.com/2dkg5zdu
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Кухня
-https://tinyurl.com/23vhqjd6
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Легенды Ретро ФМ
-https://tinyurl.com/29pjlo4d
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ленфильм
-https://tinyurl.com/2bxopdbv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Леонид Гайдай
-https://tinyurl.com/2ysv9fbk
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Луи де Фюнес
-https://tinyurl.com/2ym2us4s
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Малыш
-https://tinyurl.com/29wfxbb5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Маски Шоу
-https://tinyurl.com/22u8yhcd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Мосфильм
-https://tinyurl.com/2ydgwrl5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Музсоюз
-https://tinyurl.com/27l9z6pt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Музыка
-https://tinyurl.com/2xpuvxxt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Музыкальный Новый год!
-https://tinyurl.com/2ceyl9ga
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Мультуб
-https://tinyurl.com/2ykcberu
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Мультфильмы СССР
-https://tinyurl.com/26o98lgv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Мыльные оперы
-https://tinyurl.com/28mja8qm
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Наша победа
-https://tinyurl.com/25brmfhz
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Наша Раша
-https://tinyurl.com/2bvd97ok
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Новогодние мультфильмы
-https://tinyurl.com/27onoxcp
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Новогодний
-https://tinyurl.com/24ztpww7
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Одесская киностудия
-https://tinyurl.com/2bwflbur
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Однажды в России
-https://tinyurl.com/29qeve9c
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Орел и решка
-https://tinyurl.com/234vmro4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Оскар
-https://tinyurl.com/23zmd24l
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Охота
-https://tinyurl.com/2xsgr3fq
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Премьера
-https://tinyurl.com/28beg4s2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Привет из 90х
-https://tinyurl.com/26mzm87x
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Путешествия
-https://tinyurl.com/2yl7l4wt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Реальные пацаны
-https://tinyurl.com/2yhjcubp
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Рижская киностудия
-https://tinyurl.com/289ntoz4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Русский рок
-https://tinyurl.com/25jb8bsy
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Рыбалка
-https://tinyurl.com/278e4mhb
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF С новым годом!
-https://tinyurl.com/27bsag47
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF СашаТаня
-https://tinyurl.com/2clp9jsy
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сваты
-https://tinyurl.com/2yhqfbdx
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Свердловская киностудия
-https://tinyurl.com/2y7guujc
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сверхъестественное
-https://tinyurl.com/2cy67p7p
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Секс в большом городе
-https://tinyurl.com/23nr59yf
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сериал
-https://tinyurl.com/22zt4wcz
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сериал 4K
-https://tinyurl.com/29eerk5q
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Сериалы Турции
-https://tinyurl.com/2a8t8ywr
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Скуби-Ду
-https://tinyurl.com/2xu7dgpo
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF След
-https://tinyurl.com/28d52z5x
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Солдаты
-https://tinyurl.com/2yav3o68
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Союзмультфильм
-https://tinyurl.com/2ycxfscf
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Стройка
-https://tinyurl.com/2c4kdzrl
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Счастливы Вместе
-https://tinyurl.com/2dqg7ffn
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Тайны следствия
-https://tinyurl.com/25gpc8d4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Теория большого взрыва
-https://tinyurl.com/26b6pn75
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ужасы
-https://tinyurl.com/22joemhh
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ужасы VHS
-https://tinyurl.com/25nknsjt
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Универ
-https://tinyurl.com/29sqp3ny
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Универ новая общага
-https://tinyurl.com/2dddoh5u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Уральские пельмени
-https://tinyurl.com/24t6adps
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Фильмы СССР
-https://tinyurl.com/22qjq9o9
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Хит-парад
-https://tinyurl.com/26vprhre
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Ходячие мертвецы
-https://tinyurl.com/28kllefg
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Чернобыль
-https://tinyurl.com/2792bvl2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Шансон
-https://tinyurl.com/28uv5s94
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Эльдар Рязанов
-https://tinyurl.com/233tanhu
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="VF"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",VF Юмор 18+
-https://tinyurl.com/27mq26yj
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Бобёр
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Большая азия
