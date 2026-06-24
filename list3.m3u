@@ -684,183 +684,86 @@ https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 http://edge13.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/R4J5pyn7/image-2025-09-01-T193937-928.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Gigant FM
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/prWj5d5r/image-30.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",GoldStar TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/prWj5d5r/image-30.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",GoldStar TV
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/MyPVd1CJ/image-49.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Gospel Music Television
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/KxnYTNMQ/image-2025-08-31-T223341-056.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Happy Radio TV
-https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/TFrxZ4v/image-58.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Heart Radio Aruba
-https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/vpQrBN1/image-65.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Hilando Fino
-https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/V0WgsmG7/image-29.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Hindi Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/0y3z5jyP/image-22.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Hip Hop TV
-https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/N2cz2SDy/image-2025-09-03-T211858-281.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",HiHop TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/N2cz2SDy/image-2025-09-03-T211858-281.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",HiHop TV
 http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/5W57dt34/image-2025-09-03-T183832-963.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Hit FM
-https://5db313b643fd8.streamlock.net/HITTV/HITTV/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/prQT33Qp/image-2025-09-01-T194317-443.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Hitradio O3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/prQT33Qp/image-2025-09-01-T194317-443.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Hitradio O3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/r2LNCHH0/image-2025-09-01-T194542-949.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",HMI PROMZ NEWS
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/r2LNCHH0/image-2025-09-01-T194542-949.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",HMI PROMZ NEWS
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/tpGHZKLv/image-2025-09-01-T194817-904.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",HolidayScapes
-https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/JW7nrmpH/image-2025-07-10-T142513-842.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Hot Rock
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/JW7nrmpH/image-2025-07-10-T142513-842.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Hot Rock
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/V0Lf2QYS/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Hype Visual Radio
-https://streammix.alsolnet.com/hyperadio/live/chunklist_w1883948073.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/KcbJYbpp/image-2025-08-30-T000722-195.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",IDJ TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/KcbJYbpp/image-2025-08-30-T000722-195.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",IDJ TV
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/HpqGMF3m/image-2025-09-01-T205848-952.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",INTV Australia
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/HpqGMF3m/image-2025-09-01-T205848-952.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",INTV Australia
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/WWcdBkgx/image-2025-09-01-T211030-719.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",IQ Channel
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/WWcdBkgx/image-2025-09-01-T211030-719.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/s9xptDgV/image-2025-08-31-T124042-112.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Isai Aruvi
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/s9xptDgV/image-2025-08-31-T124042-112.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/CKTyrnDF/image-2025-08-31-T120242-874.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ITV Music
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/CKTyrnDF/image-2025-08-31-T120242-874.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ITV Music
 https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/v4Lrf5xv/image-41.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Ivoire Channel
-https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/zgkb6hj/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",JC TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/zgkb6hj/image-4.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",JC TV
 http://applelive.in/jctv/jctv.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/spLv6ZJf/image-2025-08-30-T001716-998.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Juice TV
-https://juicex.nz/hls/mystream.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/spLv6ZJf/image-2025-08-30-T001716-998.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Juice TV-CH200
-https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/jvNWCV3V/image-78.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",JUGOTON TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/jvNWCV3V/image-78.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",JUGOTON TV
 https://stream.cmctv.hr:49998/jugoton/live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/TxkfTkkT/image-23.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Jupok Radio
-https://live20.bozztv.com/akamaissh101/ssh101/jupokradio/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/S4Tvg5dD/image-14.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Jurnal FM
-https://stream.jurnalfm.md/static/streaming-playlists/hls/1a13080a-2f9a-4163-9d36-2f2282469277/0.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/rG2bjYwh/image-71.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kalac TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/rG2bjYwh/image-71.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kalac TV
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/C3vhysXN/image-2025-07-20-T171142-885.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kayhan TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/C3vhysXN/image-2025-07-20-T171142-885.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kayhan TV
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1487983799.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/svVHzTXK/image-35.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Kiss FM
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/svVHzTXK/image-35.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Kiss FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/9MBt6B4z/image-2025-07-10-T155659-095.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kiss TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/9MBt6B4z/image-2025-07-10-T155659-095.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/TMjZ6B7S/image-2025-09-07-T220806-676.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Klape i Tambure TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/TMjZ6B7S/image-2025-09-07-T220806-676.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Klape i Tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/PzQk3Q7B/image-78.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kpop 24
-https://live.24hrkpop.com/hls/2/stream.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/26KqyxYc/image-32.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",K-POP by CJ ENM
-https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/6JBKfBRp/image-2025-09-07-T221031-404.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kral Pop TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/6JBKfBRp/image-2025-09-07-T221031-404.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kral Pop TV
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/r2pFGH4B/image-2025-09-07-T221257-314.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",KroneHit HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/r2pFGH4B/image-2025-09-07-T221257-314.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",KroneHit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/W4LsNjz0/image-2025-09-07-T221500-889.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kuriakos Music
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/W4LsNjz0/image-2025-09-07-T221500-889.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kuriakos Music
 http://w2.manasat.com:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/DfTXKY0F/image-2025-09-07-T221727-565.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",La Chilena TV
-https://vdochile.com:3134/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="LaC On-Air"tvg-id="LaC On-Air"tvg-logo="https://i.ibb.co/CpM1RHTv/image-2025-07-09-T011551-804.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",LaC On-Air
+#EXTINF:-1 tvg-name="LaC On-Air"tvg-id="LaC On-Air"tvg-logo="https://i.ibb.co/CpM1RHTv/image-2025-07-09-T011551-804.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",LaC On-Air
 https://streamcdnm8-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/dwXZNhz7/image-7.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",La Morada Radio TV
-https://movil.ejeserver.com/live/lamoradatv.m3u8
-#EXTINF:-1 tvg-name="La Top 102.9 [hn]"tvg-id="LaTop1029.hn"tvg-logo="https://i.ibb.co/6HgR1sX/resize-67.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",La Top 102.9
-https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-#EXTINF:-1 tvg-name="La Voz Grupera TV [mx]"tvg-id="LaVozGruperaTV.mx"tvg-logo="https://i.ibb.co/sRtZdRQ/resize-65.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",La Voz Grupera TV
+#EXTINF:-1 tvg-name="La Voz Grupera TV [mx]"tvg-id="LaVozGruperaTV.mx"tvg-logo="https://i.ibb.co/sRtZdRQ/resize-65.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",La Voz Grupera TV
 https://cloudpro.servidoresdestream.com:8081/8026/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="La-X [pr]"tvg-id="LaX.pr"tvg-logo="https://i.ibb.co/RS8g4YH/resize-64.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",La-X
-https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/hJHNzNcT/image-7.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Lashmy TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/hJHNzNcT/image-7.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Lashmy TV
 https://live20.bozztv.com/akamaissh101/ssh101/lashmytv/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/WvHVmZ4W/image-2025-08-30-T002620-985.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Latin Zone TV
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/yn4NfYJf/image-66.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Life TV
-https://lifetv.mpks.sk/s.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/F4zLq2cm/image-26.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Life TV
-http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/ct19yKw/resize-62.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Littoral FM TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/ct19yKw/resize-62.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/fdF6JGTD/image-27.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Louga TV
-https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/yn7Cmfxw/image-9.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",m2o TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/yn7Cmfxw/image-9.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",m2o TV
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/mr7WKS8s/image-7.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",M6 MUSIC
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/mr7WKS8s/image-7.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",M6 MUSIC
 http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/9175
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/G4XHgJJb/image-2025-09-03-T204159-627.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MadeinBO Radio TV
-https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/gLTP8SMY/image-2025-07-10-T143556-957.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Madrras FM
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/gLTP8SMY/image-2025-07-10-T143556-957.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Madrras FM
 https://edge18.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/7d40wf9T/image-11.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Magic TV
-https://bss1.neterra.tv/magictv/stream_0.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/j9xZdP0C/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Magic TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/j9xZdP0C/image-4.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/yF16BZct/image-2025-07-09-T161213-143.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Makao Radio
-https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/9kf8St1r/image-43.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Maqui TV Señal Dos
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/9kf8St1r/image-43.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Maqui TV Señal Dos
 https://live20.bozztv.com/akamaissh101/ssh101/maquitv2/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/9kf8St1r/image-43.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MAQUI RADIO SEÑAL TRES
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/9kf8St1r/image-43.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MAQUI RADIO SEÑAL TRES
 https://live20.bozztv.com/akamaissh101/ssh101/maquidos/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/5gyT6kVC/image-2025-09-09-T122143-561.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Marga Marga (Chile)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/5gyT6kVC/image-2025-09-09-T122143-561.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Marga Marga (Chile)
 https://v1.tustreaming.cl/margamargatv/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/JDqCgJr/image-35.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MASTER TV RJNET
-https://live20.bozztv.com/akamaissh101/ssh101/mastertvangra/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/0R4Hr9cf/image-19.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Maxima FM
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/0R4Hr9cf/image-19.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Maxima FM
 https://5ff3d9babae13.streamlock.net/ttedvzwrvn/ttedvzwrvn/chunklist_w1462387560.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/BdZWtXy/image-2025-08-30-T003404-512.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Med Music TV
-http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/8g3PHFsN/image-17.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Miami TV Music
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/8g3PHFsN/image-17.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Miami TV Music
 https://59ec5453559f0.streamlock.net/miamitvmusic/_definst_/smil:22596/chunklist_w1738820734_b5096000.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/gbGpd0vy/image-2025-09-03-T184220-307.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Mitology
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/gbGpd0vy/image-2025-09-03-T184220-307.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Mitology
 https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/GvHjTwvY/image-2025-09-09-T121831-329.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Mix Music Channel (España)
-https://cdamix.streaming.ws/mixmusic/live/.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/5t8wSBL7/image-2025-07-10-T161649-289.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV Classic
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/5t8wSBL7/image-2025-07-10-T161649-289.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV Classic
 http://mains.services/live/0228902066/tc674KJ3du/9e37623d-f55a-4794-8d31-b0647164abd2.m3u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/Hkdq02qn/image-2025-07-10-T162831-990.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV Live USA
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/Hkdq02qn/image-2025-07-10-T162831-990.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV Live USA
 http://mains.services/live/0228902066/tc674KJ3du/64f9c049-a2b1-41bf-9cf6-706aaaa89221.m3u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/tPDZhdvs/image-32.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV U
-http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564973cb.m3u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/G3sqxswy/image-44.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV Beats IN
-http://58.147.140.106:4000/play/a0h4/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/CshndJ4N/image-11.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV Polska
-http://mains.services/live/0228902066/tc674KJ3du/f5a18dab-cedb-40c6-80b6-c30f07cedb1e.m3u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/CshndJ4N/image-11.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV FR
-http://mains.services/live/0228902066/tc674KJ3du/410d8740-8490-4fbc-931e-269e693559e7.m3u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/CshndJ4N/image-11.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV BR
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/CshndJ4N/image-11.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV BR
 http://mains.services/live/0228902066/tc674KJ3du/f6a02b0d-b8d6-49d6-b873-c6004dfad8b6.m3u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/CshndJ4N/image-11.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV GB
-http://mains.services/live/0228902066/tc674KJ3du/1d50e7a0-7882-431e-87d9-e8e09f907b09.m3u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/hnZrRf5/image-2025-09-08-T015455-810.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MTV 2
-http://mains.services/live/0228902066/tc674KJ3du/7c8a21ba-0a83-4c00-8666-b7012aad6923.m3u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/XxLPhXHm/image-65.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Mohammed Abdo
-https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index_6.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/xKJ39scZ/image-2025-07-20-T180000-849.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Music City Arts TV
-https://pegstudio.dyndns.tv/live-11/live/WIFI-1596k-540p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/v4tpYmtb/image-91.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Music India
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/v4tpYmtb/image-91.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Y78n2ptg/image-96.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Music Information Channel
-https://mic.siar.us/mic/live/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/h1X3kwVW/image-24.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Music Puq
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/h1X3kwVW/image-24.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Music Puq
 https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Muzzik POP STAR"tvg-id=""tvg-logo="https://i.ibb.co/3yZfjkvG/image-2025-08-31-T134120-060.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzzik PopStar
-https://muzzikbalkan-live.morescreens.com/mts-3/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-name="Muzzik ELECTRO"tvg-id="E"tvg-logo="https://i.ibb.co/gLDSZqS9/image-2025-08-31-T134258-490.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzzik Electro
-https://muzzikbalkan-live.morescreens.com/mts-9/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-name="Muzzik ELECTRO"tvg-id=""tvg-logo="https://i.ibb.co/gLDSZqS9/image-2025-08-31-T134258-490.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzzik X-MUZZIK
-https://muzzikbalkan-live.morescreens.com/mts-10/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/hx0wpC9j/image-53.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzzik Restart
-https://muzzikbalkan-live.morescreens.com/mts-2/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-name="J.E.K.A. MUZZIK"tvg-id=""tvg-logo="https://i.ibb.co/9HyKx1SV/image-2025-08-31-T135047-832.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzzik J.E.K.A.
-https://muzzikbalkan-live.morescreens.com/mts-4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/2YZsBTzJ/image-2025-08-31-T135227-973.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzzik MIX
-https://muzzikbalkan-live.morescreens.com/mts-a7/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/8ggtzMry/image-63.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MUZZIK WWM
-https://muzzikbalkan-live.morescreens.com/mts-5/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-name="Muzzik Rock&Roll"tvg-id=""tvg-logo="https://i.ibb.co/XxtsdVY3/image-2025-08-31-T135850-443.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzzik Rock&Roll
-https://muzzikbalkan-live.morescreens.com/mts-1/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-name="Muzzik TikTak"tvg-id=""tvg-logo="https://i.ibb.co/qFjNX6B4/image-2025-08-31-T140019-957.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzzik TikTak
-https://muzzikbalkan-live.morescreens.com/mts-a5/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/01wPnZ6/image-21.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzangala TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/01wPnZ6/image-21.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/XrBHVmjP/image-2025-09-02-T152927-117.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Now 70s
 http://mains.services/live/0228902066/tc674KJ3du/e6adbe1e-f56c-4d33-b8c2-1c51166bb249.m3u
@@ -1038,9 +941,7 @@ https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/salsagordatv/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/RpnWKwvc/image-37.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Salsa Latina FM
 https://panel.streamingmedia.com.co:3557/stream/play.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/PsgmX9DF/image-16.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Schlager Paradies
-https://h056.video-stream-hosting.de/easycast10-live/_definst_/mp4:livestreamhd12/chunklist_w1973199828.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/x8HyymBk/image-27.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",SE Connection
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/x8HyymBk/image-27.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",SE Connection
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://video01.logicahost.com.br/sergio/sergio/chunklist_w1145870213.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/gM29wc31/image-20.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Selvatica
@@ -1055,88 +956,46 @@ https://64b16f23efbee.streamlock.net/skylinetv/skylinetv/chunklist_w1305504349.m
 https://stream-13.mazana.tv/slagroriginal.m3u8s
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Šlágr 2
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Slager Premium
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/Zq0Pgw0V/image-2025-07-10-T175018-580.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Slager Premium
 https://stream-17.mazana.tv/slagrpremium.m3u8s
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/YFKyV64n/image-60.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Solo Bailalo
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-#EXTINF:-1 tvg-name="SONGTV Russia"tvg-id=""tvg-logo="https://i.ibb.co/mVdHHgV2/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Sono Onda
+#EXTINF:-1 tvg-name="SONGTV Russia"tvg-id=""tvg-logo="https://i.ibb.co/mVdHHgV2/image-4.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Sono Onda
 https://live.obslivestream.com/sonoondatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/LG5vtWR/image-20.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Stingray Classica
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/nVC0bZV/image-30.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Super Canal
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/nVC0bZV/image-30.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/39ry7tnD/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Supermusica TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/39ry7tnD/image-4.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Supermusica TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Q7KQB9vr/image-41.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tarang Music
-https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/RkRBMyD6/image-2025-07-21-T042153-169.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Team FM TV
-https://live.teamfm.nl:3190/stream/play.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/wNYYPqxz/image-21.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Telerayo
-https://s.emisoras.tv:8081/telerayo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/8gnvcHJB/image-2025-09-21-T140347-829.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Televisora de Oriente
-https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/ns49SCB8/image-2025-07-20-T170715-269.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tezaur TV
-https://tezaurtv.md/stream/stream_0.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/0NsNLQtj/image-2025-07-10-T180319-934.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/N6BNLZ8p/image-21.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Teleangol Radio
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/N6BNLZ8p/image-21.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Teleangol Radio
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/FZ4xZ5m/image-2025-08-31-T213541-666.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Telegold
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/FZ4xZ5m/image-2025-08-31-T213541-666.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Telegold
 https://telegold.iptv-playoutcenter.de/telegold/telegold-sat1/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/7d6VwF4N/image-2025-09-03-T195109-422.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Telecitta Padova
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/7d6VwF4N/image-2025-09-03-T195109-422.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Telecitta Padova
 https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/FLM1TthV/image-2025-08-30-T111426-242.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Thai Chaiyo TV
-https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Wp2tQFVT/image-23.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",The Music Network
-https://satellitetvfeed.org:5443/LiveRooms/streams/musicntwrk.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/nq9w6tHf/image-2025-09-21-T132321-976.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",The Voice
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/nq9w6tHf/image-2025-09-21-T132321-976.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",The Voice
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/nq2S5H4c/image-18.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TMB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/HpTkXQz7/image-74.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tiankov Folk
-https://streamer103.neterra.tv/tiankov-folk/live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/HpTkXQz7/image-74.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tiankov Orient Folk
-https://streamer103.neterra.tv/tiankov-orient/live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/qLjtLX1h/image-2025-09-21-T131333-439.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Today Radio
-https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/yBQgSMDd/image-26.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TOP MIX TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/yBQgSMDd/image-26.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TOP MIX TV
 https://video03.logicahost.com.br/aovivo/aovivo/chunklist_w18702497.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/yBQgSMDd/image-26.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TOP MIX TV 2
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/yBQgSMDd/image-26.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TOP MIX TV 2
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist_w193935129.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/LzDM1LYM/image-21.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Top Tv Live
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/rKf5jmNt/image-100.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Top TV
-http://74.208.199.212:8081/TopTV/live/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/BHskPVGh/image-2025-09-08-T082313-574.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Torococo TV
-https://us.streaminghd.cl/torococotelevision/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/rf4x5BJM/image-14.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TR3S
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/rf4x5BJM/image-14.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TR3S
 http://mains.services/live/0228902066/tc674KJ3du/6884201c-e3fb-44ca-975d-8fc12024704c.m3u
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/pj5hgprc/image-2025-08-31-T130823-822.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Traditional TV
-http://83.103.149.75:8085/udp/239.30.0.9:4000
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Qjchw04c/image-17.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tributo Valentina
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Qjchw04c/image-17.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tributo Valentina
 https://vdochile.com:3795/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/v4krZM14/image-72.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TRT Muzik
-https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/rKXrD41n/image-31.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TV A Folha (TVA)
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/rKXrD41n/image-31.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TV A Folha (TVA)
 https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist_w1159628027.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Kcd2bDKX/image-12.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tv Ellef
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Kcd2bDKX/image-12.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tv Ellef
 https://cdn22.streampartner.nl/tvellef/livestream/chunklist_w2087187691.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/yFbmMyhB/image-48.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TVONE Nicaragua
-https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/VcZxmq13/image-30.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tv Grande Natal
-https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_0_video_Q7c2rpEM_llhls.m3u8?session=39_sJvayhio
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/dwVcBV1s/image-18.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tv São Raimundo
-https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/7xbYYsZM/image-2025-09-07-T215706-539.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TVS Music Network
-https://rpn.bozztv.com/gusa/gusa-tvsmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/tTHCDtq6/image-2025-09-21-T122711-640.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TVM3
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/tTHCDtq6/image-2025-09-21-T122711-640.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/FLx2P1m5/image-2025-09-21-T122454-371.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TVUNO
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/FLx2P1m5/image-2025-09-21-T122454-371.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/hRC6BH9v/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Urban PRO DJ
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/hRC6BH9v/image-4.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Urban PRO DJ
 https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/tMCHLRJd/image-2025-09-01-T213050-035.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Urbano TV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/tMCHLRJd/image-2025-09-01-T213050-035.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/9kQ6vTRX/image-24.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",US-BD Journal
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8
@@ -1202,106 +1061,95 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 http://141.101.205.134:8080/hls/tvaist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/mVTM2kHW/image-12.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Абаза ТВ
 http://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-#EXTINF:-1 tvg-name="Афонтово"tvg-id=""tvg-logo="https://i.ibb.co/G37rZXW2/image-56.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Афонтово
+#EXTINF:-1 tvg-name="Афонтово"tvg-id=""tvg-logo="https://i.ibb.co/G37rZXW2/image-56.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Афонтово
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://stream.afontovo.ru/hd.m3u8
-#EXTINF:-1 tvg-name="Грозный"tvg-id=""tvg-logo="https://i.ibb.co/F1M2WYQ/image-92.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Грозный
+#EXTINF:-1 tvg-name="Грозный"tvg-id=""tvg-logo="https://i.ibb.co/F1M2WYQ/image-92.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/dsSZ8PcZ/image-99.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Димград 24
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/dsSZ8PcZ/image-99.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Димград 24
 https://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 tvg-name="Крик ТВ"tvg-id=""tvg-logo="https://i.ibb.co/3YcPTGjf/image-17.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/ycsrn3D4/image-45.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Крым 24
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/ycsrn3D4/image-45.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Крым 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-name="Культ Медиа ТВ"tvg-id=""tvg-logo="https://i.ibb.co/2ZtyrGx/resize-10.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Культ Медиа ТВ (Астрахань)
+#EXTINF:-1 tvg-name="Культ Медиа ТВ"tvg-id=""tvg-logo="https://i.ibb.co/2ZtyrGx/resize-10.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Культ Медиа ТВ (Астрахань)
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Миг"tvg-id=""tvg-logo="https://i.ibb.co/gMR7RJ9m/image-41.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Миллет
+#EXTINF:-1 tvg-name="Миг"tvg-id=""tvg-logo="https://i.ibb.co/gMR7RJ9m/image-41.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Миллет
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 tvg-name="МИТВ (Усть-Илимск)"tvg-id=""tvg-logo="https://i.ibb.co/PzbcvQ4M/image-33.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МИТВ (Усть-Илимск)
-http://193.33.233.109:9000/tv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/4wJRdzSY/image-48.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мой Город (Кушва)
-http://85.208.223.249:8888/play/a033
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/0pqcJ4CV/image-19.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МТРК Петропавловск
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/0pqcJ4CV/image-19.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МТРК Петропавловск
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Обком ТВ (Омск)"tvg-id=""tvg-logo="https://i.ibb.co/NDtP8Dq/image-21.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Обком ТВ (Омск)
+#EXTINF:-1 tvg-name="Обком ТВ (Омск)"tvg-id=""tvg-logo="https://i.ibb.co/NDtP8Dq/image-21.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Обком ТВ (Омск)
 https://www.omsk-kprf.ru/hls/stream.m3u8
-#EXTINF:-1 tvg-name="ОТВ (Серпухов)"tvg-id=""tvg-logo="https://i.ibb.co/5hmKj5w7/image-52.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Оплот
+#EXTINF:-1 tvg-name="ОТВ (Серпухов)"tvg-id=""tvg-logo="https://i.ibb.co/5hmKj5w7/image-52.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Оплот
 http://91.214.48.158:4022/udp/224.2.2.4:10000
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Ld1GqnDQ/image-44.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Первый Крымский
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Ld1GqnDQ/image-44.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Первый Крымский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/mrYdwB2Y/image-56.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Пинск ТВ
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/mrYdwB2Y/image-56.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Пинск ТВ
 http://87.252.229.200:8083/pinsk
-#EXTINF:-1 tvg-name="Продвижение"tvg-id="Prodvizhenie.ru"tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение (Колпашево)
+#EXTINF:-1 tvg-name="Продвижение"tvg-id="Prodvizhenie.ru"tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение (Колпашево)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Kolpashevo/hls/1024x576@1272/playlist.m3u8
-#EXTINF:-1 tvg-name="Продвижение"tvg-id="Prodvizhenie.ru"tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение (Новокузнецк)
+#EXTINF:-1 tvg-name="Продвижение"tvg-id="Prodvizhenie.ru"tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение (Новокузнецк)
 https://tvn-tv.ru:81/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Продвижение"tvg-id="Prodvizhenie.ru"tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение (Южно-Сахалинск)
+#EXTINF:-1 tvg-name="Продвижение"tvg-id="Prodvizhenie.ru"tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png"tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение (Южно-Сахалинск)
 http://188.113.190.13/25/video.m3u8
-#EXTINF:-1 tvg-name="Раменской ТВ"tvg-id=""tvg-logo="https://i.ibb.co/mV5ZQp2g/image-48.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Раменское ТВ HD
+#EXTINF:-1 tvg-name="Раменской ТВ"tvg-id=""tvg-logo="https://i.ibb.co/mV5ZQp2g/image-48.png"tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Раменское ТВ HD
 https://e10-ll.facecast.net/rtv/0.m3u8
-#EXTINF:-1 tvg-name="РБК"tvg-id="RBKTV.ru"tvg-logo="https://i.ibb.co/bRMgMcbt/image-47.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",РБК ТВ (Санкт-Петербург)
+#EXTINF:-1 tvg-name="РБК"tvg-id="RBKTV.ru"tvg-logo="https://i.ibb.co/bRMgMcbt/image-47.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",РБК ТВ (Санкт-Петербург)
 http://online-video.rbc.ru/spb/3/chunklist.m3u8
-#EXTINF:-1 tvg-name="РБК"tvg-id="RBKTV.ru"tvg-logo="https://i.ibb.co/bRMgMcbt/image-47.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",РБК ТВ (Черноземье)
+#EXTINF:-1 tvg-name="РБК"tvg-id="RBKTV.ru"tvg-logo="https://i.ibb.co/bRMgMcbt/image-47.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",РБК ТВ (Черноземье)
 http://online-video.rbc.ru/chr/index.m3u8
-#EXTINF:-1 tvg-name="Регион 67"tvg-id=""tvg-logo="https://i.ibb.co/WpxTP1CJ/image-45.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Регион 67
+#EXTINF:-1 tvg-name="Регион 67"tvg-id=""tvg-logo="https://i.ibb.co/WpxTP1CJ/image-45.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Регион 67
 http://212.3.155.126:8181/udp/233.67.67.177:5510
-#EXTINF:-1 tvg-name="Рика ТВ"tvg-id=""tvg-logo="https://i.ibb.co/vxpbSqWQ/image-44.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Рика ТВ
+#EXTINF:-1 tvg-name="Рика ТВ"tvg-id=""tvg-logo="https://i.ibb.co/vxpbSqWQ/image-44.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Рика ТВ
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Саров 24"tvg-id=""tvg-logo="https://i.ibb.co/j9cWH512/image-24.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Саров 24
+#EXTINF:-1 tvg-name="Саров 24"tvg-id=""tvg-logo="https://i.ibb.co/j9cWH512/image-24.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Саров 24
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
-#EXTINF:-1 tvg-name="СИ ТВ (Новый Уренгой)"tvg-id=""tvg-logo="https://i.ibb.co/R3YGJM1/resize-2024-10-07-T173908-986.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СИ ТВ (Новый Уренгой)
+#EXTINF:-1 tvg-name="СИ ТВ (Новый Уренгой)"tvg-id=""tvg-logo="https://i.ibb.co/R3YGJM1/resize-2024-10-07-T173908-986.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СИ ТВ (Новый Уренгой)
 https://lifecam.sigma-ktv.ru/ctv/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-name="СИ ТВ (Новый Уренгой)"tvg-id=""tvg-logo="https://i.ibb.co/R3YGJM1/resize-2024-10-07-T173908-986.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СИ ТВ Ещё (Новый Уренгой)
+#EXTINF:-1 tvg-name="СИ ТВ (Новый Уренгой)"tvg-id=""tvg-logo="https://i.ibb.co/R3YGJM1/resize-2024-10-07-T173908-986.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СИ ТВ Ещё (Новый Уренгой)
 https://lifecam.sigma-ktv.ru/eshche/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/LX6c2kk6/image-14.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Таврия ТВ
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/LX6c2kk6/image-14.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Таврия ТВ
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
-#EXTINF:-1 tvg-name="ТВ Студия Факт (Тазовский)"tvg-id=""tvg-logo="https://i.ibb.co/HLyg8mN0/image-53.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТВ Студия Факт (Тазовский)
+#EXTINF:-1 tvg-name="ТВ Студия Факт (Тазовский)"tvg-id=""tvg-logo="https://i.ibb.co/HLyg8mN0/image-53.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТВ Студия Факт (Тазовский)
 https://042auhsnh0x.a.trbcdn.net/livemaster/lezlkenzbx_TV_Studia_Fakt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/84D9YCpv/image-38.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Теледом
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-name="ТИВИСИ HD"tvg-id=""tvg-logo="https://i.ibb.co/9kPVKrwC/image-43.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТИ ВИ СИ HD
+#EXTINF:-1 tvg-name="ТИВИСИ HD"tvg-id=""tvg-logo="https://i.ibb.co/9kPVKrwC/image-43.png"tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТИ ВИ СИ HD
 https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Тосно ТВ"tvg-id=""tvg-logo="https://i.ibb.co/Mdzy1yF/image-29.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Тосно ТВ
-http://tosnotv.ru/hlsshare/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  24
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  24
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  25
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  25
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  26
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  26
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  27
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  27
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  28
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  28
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  29
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  29
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  30
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  30
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  31
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  31
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  32
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  32
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  33
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  33
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  34 Сов.Ком
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  34 Сов.Ком
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  35 FilmONN
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  35 FilmONN
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  37 FilmOFF
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  37 FilmOFF
 https://rpn3.bozztv.com/dvrfl07/ushba65/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  39
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  39
 https://rpn3.bozztv.com/dvrfl07/ushba56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  41
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинозалы  41
 https://rpn3.bozztv.com/dvrfl07/ushba82/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Маша и Медведь
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title="ДЕТСКИЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Маша и Медведь
 https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Маша и Медведь (Eng)
-https://rpn3.bozztv.com/dvrfl07/ushba78/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/qZJGKb4/image-15.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СССР Мульты
+#EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/qZJGKb4/image-15.png"tvg-chno=""group-title="ДЕТСКИЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СССР Мульты
 https://rpn3.bozztv.com/dvrfl07/ushba80/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="no_epg_cinema"tvg-logo="https://i.ibb.co/NnV5WSBK/image-12.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Шоу Бенни Хилла
 https://rpn3.bozztv.com/dvrfl07/ushba62/tracks-v1a1/mono.m3u8
@@ -12473,57 +12321,6 @@ http://62.32.84.50:18000/play/a0bh/index.m3u8
 http://62.32.84.50:18000/play/a0jt/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Хабар HD
 http://62.32.84.50:18000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12272/logo_256_1660891682.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",HD Media
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/NzFr_tvomqcTn8lX5H4Wvg,1781160925/streaming/hdmedia/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15576/logo_256_1668760402.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Novella TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/dzx4q2KfRlQbJewHcjqTYA,1781160925/streaming/telenovella/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17242/logo_256_1682688528.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",FilmBox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/fACfqtHAB5YMwD7JBefLLw,1781160925/streaming/filmbox/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Anime TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/_xKBef1MrpZ5LJDOmyNN-Q,1781160925/streaming/anime_tv/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16325/logo_256_1673848908.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Anime Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/sEL3uxYZ27wQ-cU7LU-XqA,1781160926/streaming/anime_kids/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10288/logo_256_1658737569.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Сказки Зайки
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/hnV9xhQ0rx1zMJ93wekAsA,1781160926/streaming/zaj/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10103/logo_256_1658736742.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Конный Мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/wgxuFYkxUH5cnMZIZtm5XQ,1781160926/streaming/konniy/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10260/logo_256_1655389076.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",ТДК
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/BG_arEGff8i7TDxc7zE0JA,1781160926/streaming/tdk/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13343/logo_256_1660803641.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",TBN Baltia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/QaNTNyb0rgICOd-FYpYDfw,1781160926/streaming/tbn_baltic/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10356/logo_256_1660807480.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",ТБН Россия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/4zppNpZMmqsYCnIJQCVpGg,1781160926/streaming/tbn/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10367/logo_256_1660805793.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Мособр ТВ (Москва)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/CZUJObuV5NlSYoohA5bY5Q,1781160927/streaming/mosobrtv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14449/logo_256_1660800552.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Global Star TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/lPItx7DIho8gvnxNLoYDgg,1781160927/streaming/global_star/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10065/logo_256_1660809981.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Chuvashiya online
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/UNeR0x_SRLEvHOnKpHbheQ,1781160928/streaming/camera-online/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10315/logo_256_1658744925.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Эхо ТВ 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/1jLEnJ7uRVCni2fHI7Xtlg,1781160929/streaming/ehotv/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10437/logo_256_1660806875.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Прибой ТВ (Дагестан)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/QXZz5U5XtUE-9KWwT3Yv5g,1781160930/streaming/priboy/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10491/logo_256_1660807543.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",ТВ Регион 04 (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/tNvPrB7a7wTiYZnkY41eQw,1781160930/streaming/region04/324/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10534/logo_128_1652790001.png"tvg-chno=""group-title="Lime (✅✅✅ 🇷🇺)"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)",Chuvashiya online
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/2A_gbqR6JaLbVC-93Tr5-A,1781160930/streaming/camera-online/324/1/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="TEST в“µ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Tiji
 https://live-3.otcnet.ru/Tiji/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="TEST в“µ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Gulli Girl
