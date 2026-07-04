@@ -112,9 +112,9 @@ https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 https://salam-ptg-post-100.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/eIWOL7TdWv3yfTB-g9vygA/stream/genetta-405.ntv.rutube.ru/WyJDK_O4gdyoyJaKzZAdpw/1783636469/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",VIVA Russia HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",VIVA RUSSIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://river-m9-rtk-335.rtbcdn.ru/stream/genetta-407.ntv.rutube.ru/3OEo9YSj1hGyXUoy_bdCdw/1783717598/5a294ae1ed12c44c7053301fb5fa9ba0/1080p_stream.m3u8
+https://river-m9-rtk-319.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/fNrf1baqqzpnRnGAyFYzsQ/1783805661/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia 2
