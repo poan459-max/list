@@ -133,34 +133,36 @@ https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",.Sci-Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
-#EXTINF:-1 tvg-name="viju TV1000"tvg-id="vijuTV1000.ru"tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju TV1000 HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=k2szFEi9UDML8EdzzEOQeg&e=1784244627&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju TV1000 Русское HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Rus_Kino_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=B2u9eZmYhx8zU55Ne7xdiQ&e=1784245440&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Serial HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/VIP_Serial.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=zVxnJt4BeszlgJiTjaem6g&e=1784245754&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Comedy
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Comedy HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Comedy_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=9P4bMc5-ZYvvkE3YXMGw6w&e=1784245675&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",megahit
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Megahit HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/VIP_Megahit_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=VKc-qvKrNFc_8qH_mXiAzQ&e=1784245595&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",premiere
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Premiere HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/VIP_Premiere.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ptC99EKGCmHs4HlhVwSFgg&e=1784245518&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",romantica
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=HBwGy6RE4Kwn6hKaTgt7eA&e=1784244999&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",новелла
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju TV1000 Новелла HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=OR548hk58SbXouG3DUDmKA&e=1784244904&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",action
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju TV1000 Action HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=6ae-uEt2_JmTMfJIkF5-qA&e=1784244786&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",explore
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju Explore HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=umWYCaVlQ3cbw_rzb6N_EQ&e=1784245981&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",planet
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Planet HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_Nature_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=-2krVKijiuzoQF-qKjXZiA&e=1784246295&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",nature
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju Nature HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=nsxTA75U2BaFrJ2Zc-NU7A&e=1784246084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",history
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju History HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Xs_vD2vi7AhcQ2mL-75wDw&e=1784245867&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",sport
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Sport HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Sport_HD.smil/tracks-v1a1/rewind-18000.ts.m3u8?DVR&filter.tracks=v1v2v3a1&md5=xPretZsnPUmUvLHIVBZhPQ&e=1784245295&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Da Vinci HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=FCJzWVQy6QrguUQRArf4cA&e=1784250717&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Праздник
@@ -1813,8 +1815,6 @@ http://193.25.8.59:8000/History
 http://193.25.8.59:8000/ohota
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Моя планета
 http://193.25.8.59:8000/myplanet
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viasat Nature
-http://193.25.8.59:8000/nature
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Наука 2.0
 http://193.25.8.59:8000/nauka
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",RTG HD
@@ -3328,8 +3328,6 @@ http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",BRIDGE TV
 http://hls127.freeott.top:8080/BRIDGE_TV/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Da Vinci
-http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Футбол
 http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viasat Nature
