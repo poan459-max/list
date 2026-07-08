@@ -103,7 +103,7 @@ https://rec101.24h.tv/mbrjwt/1450457a8b7302dd2034fd8e07067214ce656dac-7364-0-str
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Bridge Русский Хит HD
 https://rec102.24h.tv/mbrjwt/1450457a8b7302dd2034fd8e07067214ce656dac-8747-0-str40948063-5-3119732614-1783527560-e128-Cyao_DOJindgQmwNDB46c0xlWrymaqMMf8JangYHEKg/ch8747-0/ch8747-0.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Europa Plus TV
-https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
+http://cdn03.dyndns.tv:525/live/europaplustv?token=a4ad9422ffd2ac73ff0328d2130e8933
 #EXTINF:-1 tvg-name="RU.TV"tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Ru TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=-vKViIF4wpjkGFeoRCdyYw&e=2066519850&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТНТ Music
@@ -119,10 +119,14 @@ https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",VIVA RUSSIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://river-m9-rtk-319.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/fNrf1baqqzpnRnGAyFYzsQ/1783805661/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia 2
-https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia HIT
-http://194.152.35.17/amedia-hit/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source="http://cdn03.dyndns.tv:8443/a1/index-${start}-${timestamp}.m3u8?token=a4ad9422ffd2ac73ff0328d2130e8933"catchup-days="":http-referrer="":http-user-agent="",Amedia 1
+http://cdn03.dyndns.tv:525/live/a1hd?token=a4ad9422ffd2ac73ff0328d2130e8933
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source="http://cdn03.dyndns.tv:8443/a2/index-${start}-${timestamp}.m3u8?token=a4ad9422ffd2ac73ff0328d2130e8933"catchup-days="":http-referrer="":http-user-agent="",Amedia 2
+http://cdn03.dyndns.tv:525/live/a2hd?token=a4ad9422ffd2ac73ff0328d2130e8933
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source="http://cdn03.dyndns.tv:8443/amediahit/index-${start}-${timestamp}.m3u8?token=a4ad9422ffd2ac73ff0328d2130e8933"catchup-days="":http-referrer="":http-user-agent="",Amedia HIT
+http://cdn03.dyndns.tv:525/live/amediahithd?token=a4ad9422ffd2ac73ff0328d2130e8933
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source="http://cdn03.dyndns.tv:8443/amediapremium/index-${start}-${timestamp}.m3u8?token=a4ad9422ffd2ac73ff0328d2130e8933"catchup-days="":http-referrer="":http-user-agent="",Amedia Premium HD
+http://cdn03.dyndns.tv:525/live/amediapremiumhd?token=a4ad9422ffd2ac73ff0328d2130e8933
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Киносвидание
@@ -226,11 +230,11 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МАТЧ! Игра
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Футбол 1 HD
-http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+http://cdn03.dyndns.tv:525/live/matchfutbol1hd?token=a4ad9422ffd2ac73ff0328d2130e8933
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Футбол 2 HD
-http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+http://cdn03.dyndns.tv:525/live/matchfutbol2hd?token=a4ad9422ffd2ac73ff0328d2130e8933
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Футбол 3 HD
-http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+http://cdn03.dyndns.tv:525/live/matchfutbol3hd?token=a4ad9422ffd2ac73ff0328d2130e8933
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Бобёр
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ПОЗНАВАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Большая азия
