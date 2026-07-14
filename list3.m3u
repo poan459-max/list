@@ -26,6 +26,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СТС
 http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СТС LOVE
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ДЕТСКИЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СТС KIDS
 http://37.186.70.39:40/play/97/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Домашний
 https://edge03r.mediavitrina.ru/hls-livef5/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.hr31ljN2ReBAjpC4czMQUycnz5upEq6HwD8q9S22bMY.XeUspk4dNnjGzWa1TDmeLz_eCGSswIH4LL7koZsA0Yo.1784311343.796a68440d43b3967f440c88ecb6c3e4
@@ -4972,12 +4974,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-10
 #EXTINF:-1 tvg-name="СТС -30ч"tvg-id=""tvg-logo="https://i.ibb.co/VjnTJpG/image-38.png"tvg-chno=""group-title="Каналы+/-"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",СТС (-30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-108000
-#EXTINF:-1 tvg-name="СТС Love"tvg-id=""tvg-logo="https://i.ibb.co/Mf23WgS/image-42.png"tvg-chno=""group-title="Каналы+/-"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",СТС Love
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-name="СТС Love (+2)"tvg-id=""tvg-logo="https://i.ibb.co/Mf23WgS/image-42.png"tvg-chno=""group-title="Каналы+/-"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",СТС Love (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 tvg-name="СТС Love (+4)"tvg-id=""tvg-logo="https://i.ibb.co/Mf23WgS/image-42.png"tvg-chno=""group-title="Каналы+/-"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",СТС Love (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8?version=2
