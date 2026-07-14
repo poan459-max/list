@@ -42,9 +42,9 @@ https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=BR
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Ю ТВ
 http://193.25.8.59:8000/u
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТВ-3
-https://river-m9-rtk-d3116.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/PzxLWnDlo1wNSI-XJ2xYBg/1783803667/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+https://river-m9-rtk-d3116.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/op94Md1dfICLpE6sOByOpQ/1784632677/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Че!
-https://edge01d.mediavitrina.ru/dash-livef6/ctc-che/index.mpd?token=v2.7DJ6oszS0zN1ZrJrabq6wsjsg5W42RbPNLhHfRlrHCk.Zmk06V8BNvqvILGT1_QjV93AWOq9LEYI1w3fI0GWvnE.1783807917.d04721adca77c6ea448c04661ef40a49
+https://edge02d.mediavitrina.ru/dash-livef6/ctc-che/index.mpd?token=v2.qks_MwCQ2NCNgHMZBhRH1yxkuGuYwui-HJNTH7vS9w8.8HQqTEVojJL3s3OYStOlTBIUOcidLhKRDqi2iT7Wa_U.1784632798.68b34d5783cd5cc124b62d4f829297e7
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир 24
@@ -56,9 +56,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",TPO
 https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТВЦ
-https://edge03p.mediavitrina.ru/hls-livef5/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.R8ZjxRe58FMet2bkLw9Evr5N2NELGYyOiO8JaVHrY_Q.UrMMW8E1W70_B6G1d9VaygtJmVMrA0a8MBzZB3--894.1783810096.53db7fee911c55c67975b1723135fca4
+https://edge03r.mediavitrina.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.YjIEJzgvTFSBnRc7Wo9PtOMQR6BuNV4ESPakhs87NmE.yYaC5iJwck3ohJKPm6lhgpMnGMH0PEuY3dTFtBI_x_E.1784632960.3e0f8314978278febe592672648dff1b
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",5 Канал
-https://edge02r.mediavitrina.ru/hls-livef8/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.KnPd_9rBli5lEZqVz27wzH0Q8tjamAGHxnjMKSywSPo.PZsNS5YLurwEdEOdUy3cmtxSZ3k0JetUcaapSnzvud4.1783810191.ac14b258b3653f576c7062542732a0f5
+https://edge01d.mediavitrina.ru/hls-livef8/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.1Jml1K5wikfrrSNdVKERD6KpS2Y22SGQ9OdVufrs3Og.XDW8CkiY-h70yXmZD7Z8RoimP6b9JbKVXazn33T4VOQ.1784633178.6220a0336f08c02646f9b6b3837a8750
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ЛДПР ТВ
 https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Красная Линия
