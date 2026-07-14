@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия 1 HD
-https://edge01p.mediavitrina.ru/hls-livef6/russia1/tracks-v5a1/mono.ts.m3u8?token=v2.G7R6ky4xbjZ6gBYu9WGX2r6LuywTYKl6mF3-SW1sRTA.4FXr2K1cMBuycPes6OyPYqckJHwYIiTRQsMAF9it7SU.1783806674.0fa8bb61a722ea0c625522325906ab55
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия 24
-https://edge01d.mediavitrina.ru/hls-livef6/russia24/tracks-v5a1/mono.ts.m3u8?token=v2.uIDnnA1osCS2-LKISuEGc53t8kSKJhlhuZriUV2YLYQ.qHnkqsTTav0GCIgUVGW9LY4ye50e2psbUnhbo90O8LU.1783806841.aac8cbb2c499703568b7a3a29c545a05
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Россия К
-https://edge02p.mediavitrina.ru/hls-livef7/russiak/tracks-v5a1/mono.ts.m3u8?token=v2.y9iqTC6_ew5Xryetv1KA1XyKTyRNr7cgM7mU33CWBcU.LFwvqBLDyLOIr2AXvtd8RiYhQcItSdvz4qcGBJ49Cc8.1783807051.1e3dd953300dd9271ca0e7cdbbc057b4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="НТВ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",НТВ HD
 https://cdn-dvr.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.ts.m3u8?filter.tracks=v2v1v3v4v5a1l1t1
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="НТВ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",НТВ Стиль
@@ -22,11 +22,11 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Рен ТВ
-https://edge02p.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.1WKO6JnpY2PZCJt86bBck59TjDYVRr5OcAfPbVHqeYw.B4xLMWZzTcLq56AwNpT42o-WF17Pb-Cy1JVbCry6YEo.1783807179.ea802fe9062b14cac27336f8544aa2ec
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СТС
-https://edge01d.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.ieEs6NlPdmMPRHy5RbmfMO6ggjEcuNPifc-e8hyU6Mw.eXrfKudJvZ_3iQRMLRJJbBSYWN_Sdw5EpEkstnpWc6c.1783803903.30806cc3528cbb2ab595ac3e0919dee0
+http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СТС LOVE
-https://edge02d.mediavitrina.ru/hls-livef5/ctc-love/tracks-v3a1/mono.ts.m3u8?token=v2.hbXMpk1POBbFYCJ-bXYQY6AdYLVRRXR1AnSEVACW4Rk.6cpx60LL9RUdC1SBoRqPQnc0blNul2mGVECQr8L0boI.1783808083.9cbd317c42e9fbc855483ba5d17b3a16
+http://37.186.70.39:40/play/97/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Домашний
 https://edge03r.mediavitrina.ru/hls-livef5/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.hr31ljN2ReBAjpC4czMQUycnz5upEq6HwD8q9S22bMY.XeUspk4dNnjGzWa1TDmeLz_eCGSswIH4LL7koZsA0Yo.1784311343.796a68440d43b3967f440c88ecb6c3e4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТНТ HD
@@ -38,15 +38,15 @@ https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=Zm
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ПЯТНИЦА!
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=BRMBsBeWvq9ixFlK0tFXcQ&e=2083666504&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Ю ТВ
-https://river-m9-rtk-350.rtbcdn.ru/stream/genetta-304.m9.rutube.ru/kLI7nP9neJqb8ObD1H1bFQ/1783807666/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
+http://193.25.8.59:8000/u
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТВ-3
 https://river-m9-rtk-d3116.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/PzxLWnDlo1wNSI-XJ2xYBg/1783803667/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Че!
 https://edge01d.mediavitrina.ru/dash-livef6/ctc-che/index.mpd?token=v2.7DJ6oszS0zN1ZrJrabq6wsjsg5W42RbPNLhHfRlrHCk.Zmk06V8BNvqvILGT1_QjV93AWOq9LEYI1w3fI0GWvnE.1783807917.d04721adca77c6ea448c04661ef40a49
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир
-https://river-m9-rtk-352.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/DUg32EixgqjcfITdrqKZ8w/1783809646/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир 24
-https://river-m9-rtk-319.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/QxMJ-uF1ZwelTjhqiw_21w/1783809757/43269ba8fb179e298b1e497f557e8d2d/1080p_stream.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир +2
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ОБЩЕСТВЕННЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мир +7
