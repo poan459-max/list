@@ -95,28 +95,28 @@ http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Bridge Deluxe HD
 http://46.32.176.50/BridgeTVHD/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",BRIDGE Шлягер
-http://193.25.8.59:8000/mtv
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132427&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Bridge Rock HD
-http://cdn03.dyndns.tv:525/live/bridgerock?token=a4ad9422ffd2ac73ff0328d2130e8933
+http://94.228.166.20:8000/play/a055/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Bridge Русский Хит HD
-http://37.186.70.39:40/play/93/index.m3u8
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132431&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Europa Plus TV
-http://ott.watch/stream/6HAPZWKKG3/184.m3u8
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132476&extension=ts
 #EXTINF:-1 tvg-name="RU.TV"tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Ru TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=-vKViIF4wpjkGFeoRCdyYw&e=2066519850&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ТНТ Music
-https://river-m9-rtk-335.rtbcdn.ru/stream/genetta-407.ntv.rutube.ru/3OEo9YSj1hGyXUoy_bdCdw/1783717598/5a294ae1ed12c44c7053301fb5fa9ba0/1080p_stream.m3u8
+https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="muzyka-pervogo"tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Музыка первого
-https://s03.watcher.uz/54/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Жара
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Муз ТВ
-https://river-m9-rtk-334.rtbcdn.ru/stream/genetta-405.ntv.rutube.ru/9aW5IIhpfmB75qo0mZABOw/1784565329/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",VIVA RUSSIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://river-m9-rtk-319.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/fNrf1baqqzpnRnGAyFYzsQ/1783805661/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=FMe6GGKrDGEuVDNYRmuK4g&e=2069285079&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia 1
 http://31148.rafail1982.uz/A1/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia 2
@@ -130,13 +130,15 @@ https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинокомедия
-http://cdn03.dyndns.tv:525/live/kinokomediyahd?token=a4ad9422ffd2ac73ff0328d2130e8933
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Киномикс
-https://river-m9-rtk-351.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/CWInG5Omp2H8yZZ8MSDtSA/1783717118/3d7964a9e8e611c2e9378a079a1bf175/1080p_stream.m3u8
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Киносемья
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Киноужас
-https://river-m9-rtk-353.rtbcdn.ru/stream/genetta-304.m9.rutube.ru/HT_wLy3kUo6FZjrcViALaA/1783717365/6a94516dfac869b601251f3a6b8cafbc/1080p_stream.m3u8
+http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="kinoxit"tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кинохит
-https://s03.watcher.uz/47/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Киносерия
 https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="nashe-novoe-kino"tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Наше новое кино
