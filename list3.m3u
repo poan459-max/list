@@ -121,9 +121,9 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=FM
 http://31148.rafail1982.uz/A1/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia 2
 http://31148.rafail1982.uz/A2/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia HIT
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia HIT
 http://46.32.176.50/amediahit/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia Premium HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia Premium HD
 http://46.32.176.50/AmediaPremiumHD/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
@@ -148,7 +148,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="indiyskoe-kino"tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Индийское кино
 https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Русский Иллюзион
-http://46.32.176.50/russkiyiluzion/index.m3u8
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132693&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Иллюзион+
 https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132518&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Русский Бестселлер
@@ -182,34 +182,34 @@ https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=1148895&exten
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Comedy HD
 https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132751&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Megahit HD
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132752&extension=ts
+http://46.32.176.50/VIPMegahitHD/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Premiere HD
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132787&extension=ts
+http://46.32.176.50/VIPPremiereHD/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Sport HD
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132782&extension=ts
+http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju+ Planet HD
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju Explore HD
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=301004&extension=ts
+http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju Nature HD
 https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=1148928&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viju History HD
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Viju"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Da Vinci HD
 http://62.32.84.50:18000/play/a0m6/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Кино и сериалы
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Праздник
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Праздник
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Мужское
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Мужское
 http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Факты
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Факты
 http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Детское
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Детское
 http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Классика
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Классика
 http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Любовь
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Смотрим!"catchup="?"catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Смотрим! Любовь
 http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
@@ -220,19 +220,21 @@ https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МАТЧ!
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=W76dQnw6UUOMTcTX-QSm8A&e=2069285079&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МАТЧ! Арена
-http://cdn03.dyndns.tv:525/live/matcharenahd?token=a4ad9422ffd2ac73ff0328d2130e8933
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132559&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МАТЧ! Страна
-http://cdn03.dyndns.tv:525/live/matchnashsport?token=a4ad9422ffd2ac73ff0328d2130e8933
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132721&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МАТЧ! Премьер
-http://cdn03.dyndns.tv:525/live/matchpremierhd50fps?token=a4ad9422ffd2ac73ff0328d2130e8933
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=459676&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МАТЧ! Игра
-http://cdn03.dyndns.tv:525/live/matchigrahd?token=a4ad9422ffd2ac73ff0328d2130e8933
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=300843&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Футбол 1 HD
-http://cdn03.dyndns.tv:525/live/matchfutbol1hd?token=a4ad9422ffd2ac73ff0328d2130e8933
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132561&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Футбол 2 HD
-http://cdn03.dyndns.tv:525/live/matchfutbol2hd?token=a4ad9422ffd2ac73ff0328d2130e8933
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132596&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Футбол 3 HD
-http://cdn03.dyndns.tv:525/live/matchfutbol3hd?token=a4ad9422ffd2ac73ff0328d2130e8933
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132565&extension=ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="СПОРТ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Боец HD
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=300846&extension=ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Бобёр
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ПОЗНАВАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Большая азия
@@ -240,13 +242,13 @@ https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Живи Активно
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ПОЗНАВАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Здоровое ТВ
-https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
+https://s04.watcher.uz/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ПОЗНАВАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Моя планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ПОЗНАВАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Наша тема
 https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="ПОЗНАВАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Точка отрыва
-https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Загородная Жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="РАЗВЛЕКАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Мужской
@@ -274,7 +276,7 @@ http://176.118.197.101/KHL/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",НСТ
-http://cdn03.dyndns.tv:525/live/nst?token=a4ad9422ffd2ac73ff0328d2130e8933
+http://stream.mcquack.net/207/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="КИНО"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Любимое кино
@@ -486,10 +488,6 @@ http://uiptv.do.am/1ufc/602079679/playlist.m3u8
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Bridge TV Hits HD
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Bridge TV Шлягер
-http://193.25.8.59:8000/mtv
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Bridge TV Русский Xит HD
-http://193.25.8.59:8000/rusong
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Bridge TV Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-name="CHD TV ROCK"tvg-id=""tvg-logo="https://i.ibb.co/Dfc5YFTK/image-2025-08-29-T172345-459.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",CHD TV ROCK
@@ -727,8 +725,6 @@ http://mains.services/live/0228902066/tc674KJ3du/f6a02b0d-b8d6-49d6-b873-c6004df
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/h1X3kwVW/image-24.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Music Puq
 https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/01wPnZ6/image-21.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Muzangala TV
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/XrBHVmjP/image-2025-09-02-T152927-117.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Now 70s
 http://mains.services/live/0228902066/tc674KJ3du/e6adbe1e-f56c-4d33-b8c2-1c51166bb249.m3u
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/7NrNgk7S/image-11.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",NOW 90s
@@ -777,8 +773,6 @@ https://rst2.saiuzwebnetwork.it:8081/prosol/index.m3u8
 https://w1.mediastreaming.it/digiesse/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/3myBcSHk/image-2025-07-09-T013825-003.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Radio DOC Tv
 https://64b16f23efbee.streamlock.net/radiodoctv/radiodoctv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/JR1tBZ3m/image-21.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Radio Fiessta TV
-https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/3ypdM85B/image-2025-07-09-T010858-759.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Radio FM Faleria
 https://w1.mediastreaming.it/radiofmfaleria/radiofmfaleria-sf.stream/chunklist_w1534862476.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/ZK27rPfN/image-18.png"tvg-chno=""group-title="МУЗЫКА"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Radio Freccia TV
@@ -1007,8 +1001,6 @@ http://online-video.rbc.ru/chr/index.m3u8
 http://212.3.155.126:8181/udp/233.67.67.177:5510
 #EXTINF:-1 tvg-name="Рика ТВ"tvg-id=""tvg-logo="https://i.ibb.co/vxpbSqWQ/image-44.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Рика ТВ
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Саров 24"tvg-id=""tvg-logo="https://i.ibb.co/j9cWH512/image-24.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Саров 24
-http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-name="СИ ТВ (Новый Уренгой)"tvg-id=""tvg-logo="https://i.ibb.co/R3YGJM1/resize-2024-10-07-T173908-986.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СИ ТВ (Новый Уренгой)
 https://lifecam.sigma-ktv.ru/ctv/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-name="СИ ТВ (Новый Уренгой)"tvg-id=""tvg-logo="https://i.ibb.co/R3YGJM1/resize-2024-10-07-T173908-986.png"tvg-chno=""group-title="РЕГИОНАЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",СИ ТВ Ещё (Новый Уренгой)
@@ -1697,10 +1689,6 @@ https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=5u
 https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=zjpg_Wf5iDA6u6oqbSjLxQ&e=2069285071&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Первый Ярославский HD
 https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=bFChM5wWx48CyuwcEbsRzg&e=2066519835&scheme=https
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Прима
-https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=W7oOqsVscE7jYrS47p1eBw&e=2069285072&scheme=https
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Прима HD
-https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=j8p6vqYxCSO9lgbEMNq6BQ&e=2066519840&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=E2RfWrb4j1Vl6Ej5EL6yCA&e=2069285065&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение HD
@@ -1793,8 +1781,6 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=x4
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ЮРГАН HD
 https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=jcJnHa6IFZzQelEk5rw-gg&e=2066519824&scheme=https
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ЮУРГУ-ТВ
-https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=C7kUrLZ8q_kexlNng8rP1A&e=2069285057&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Юрган
 https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=5bLrupPu5GHYQQsHkq9F5A&e=2069285067&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Ямал-Медиа
@@ -1949,8 +1935,6 @@ https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 https://live.overtime26.ru/app/potok/playlist.m3u8
 #EXTINF:-1 tvg-name="ОТВ (Серпухов)"tvg-id=""tvg-logo="https://i.ibb.co/VYZnYQnC/image-31.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ОТВ (Серпухов)
 http://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
-#EXTINF:-1 tvg-name="Первый Псковский"tvg-id=""tvg-logo="https://i.ibb.co/35SsDwd4/image-44.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Первый Псковский
-http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 tvg-name="Продвижение"tvg-id="Prodvizhenie.ru"tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение (Ленинск-Кузнецкий)
 http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
 #EXTINF:-1 tvg-name="Продвижение"tvg-id="Prodvizhenie.ru"tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Продвижение (Ленинск-Кузнецкий)
@@ -2231,8 +2215,6 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",4 канал (Екатеринбург)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Прима
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Наука
 http://hls127.freeott.top:8080/NAUKA/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",RTG TV
@@ -2700,8 +2682,6 @@ http://95.47.155.244:8001/play/a014
 http://95.47.155.244:8001/play/a015
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Пятница
 http://95.47.155.244:8001/play/a016
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Звезда
-http://95.47.155.244:8001/play/a017
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",МИР
 http://95.47.155.244:8001/play/a018
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Сибирь 24
@@ -2987,9 +2967,6 @@ https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=iv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=AXtVwbe3inLQSUrs7AQ3SA&e=2077834897&scheme=https
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Прима
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=WK3GBFap0FVfcxq4QpV8QA&e=2077834897&scheme=https
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",АСТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=U0RG6FhyOf_mkraSPQkQXQ&e=2077834898&scheme=https
@@ -3194,14 +3171,6 @@ https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="https://televizor24tochka.ru/":http-user-agent="",МузТВ
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-3k_v5.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Музыка 2 International
-https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",HGTN
 https://v2.catcast.tv/content/34251/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://catcast.tv/assets/no-logo.svg"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Телеканал Андийцы
@@ -3276,18 +3245,6 @@ http://live.al-zahratv.com/live/playlist.m3u8
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ANEWZ
-http://176.65.146.189:8701/play/a0a6
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",ATV Azerbaijan HD
-http://176.65.146.189:8701/play/a09m
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",AzTV HD
-http://176.65.146.189:8701/play/a09i
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",BAKU TV
-http://176.65.146.189:8701/play/a09t
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",CBC Azerbaijan TV HD
-http://176.65.146.189:8701/play/a09g
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",CBC Sport TV HD
-http://176.65.146.189:8701/play/a09h
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Շանթ
 http://5.188.172.179/Shant/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Luys
@@ -3648,14 +3605,6 @@ http://ic7.101.ru:8000/stream/pro/aac/64/58
 http://stream.laut.fm:80/club85
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",80s Maxi Mix radio
 http://stream.laut.fm:80/maximix
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Кино- Последний концерт в Лужниках
-https://v2.catcast.tv/videos/ch40908/171120210453_112762/video.mp4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Музыка Кино International
-http://autopilot.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Музыка 1 International
-http://autopilot.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Музыка 2 International
-http://autopilot.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",STZ Telebista (1080p)
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/s6V8rQd.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Noroeste TV HD
@@ -3668,8 +3617,6 @@ https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",1MUS
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Factoria TV HD
-https://eu1.servers10.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Rouge TV 720p
@@ -3682,10 +3629,6 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Каббала
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",CPS Jackie Chan HD
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",CPS Mix HD
-http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",CPS Anime HD
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",КИНОСЕРИЯ
@@ -3698,8 +3641,6 @@ http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",КИНО ЛИВИНГ
 http://45.145.32.13:20440/kinoliving/index.m3u8?token=test
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia 2
-http://45.145.32.13:20440/kineko/index.m3u8?token=test
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia Hit
 http://45.145.32.13:20440/mama/index.m3u8?token=test
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Amedia Premium
@@ -7600,9 +7541,6 @@ http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",KLI MEDIA НОВИНКИ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/klimedia_live
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Амбергейт
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/ambergate_live
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",У КРАЯ БЕЗДНЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/ddator_live
@@ -7615,9 +7553,6 @@ http://kinowalk.hopto.org/romantic_live
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ChowAmigo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/chowamigo_live
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",PartizaNka tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/partizanka_tv_live
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png"tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",IGROComp Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/igrocomp_live
@@ -7661,15 +7596,6 @@ http://kinowalk.hopto.org/play4fun_live
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/MkJGC2Xw/image-49.png"tvg-chno=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="",1 Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/7cDGY7w/image-57.png"tvg-chno=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa",Ачинское ТВ (Ачинск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://dmitry-tv.ddns.net/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/tTjSpvbZ/image-58.png"tvg-chno=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Байкал Универ ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://dmitry-tv.ddns.net/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/s96bTXQb/image-78.png"tvg-chno=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Волжский Плюс HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://dmitry-tv.ddns.net/hls/region/CH_VOLPLUSHD_VLSKIY.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/wrdBZNtK/image-22.png"tvg-chno=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",За!ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
@@ -7686,22 +7612,6 @@ http://188.134.7.215:4022/udp/235.10.10.153:1234
 http://stvserver.sibaytv.ru:10082/canals/canal1/stream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/SXz7WM8b/image-22.png"tvg-chno=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="",Туапсе 24
 http://185.185.69.62:8084/hls/tuapse24.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/wht2gDJn/image-40.png"tvg-chno=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Эхо ТВ 24 (Новоуральск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://dmitry-tv.ddns.net/hls/region/CH_ECHOTV24_NURLSK.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/9HF9L521/image-35.png"tvg-chno=""group-title=""catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-referrer="":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",ЮУрГУ ТВ HD Челябинск
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://dmitry-tv.ddns.net/hls/region/CH_YURGUTVHD720_CHEL.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Беларусь 1
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Беларусь 2
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Беларусь 3
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Беларусь 5
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Беларусь 24
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Белсат HD
 http://e87149a8.megogo.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/10036/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Gurinel TV MD
@@ -7772,18 +7682,6 @@ https://stream8.cinerama.uz/1469/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",DocuBox
-http://193.25.8.59:8000/24Doc
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Домашний
-http://193.25.8.59:8000/dom
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Футбол 1
-http://193.25.8.59:8000/fut
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Футбол 2
-http://193.25.8.59:8000/fut2
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Viasat Sport
-http://193.25.8.59:8000/viasatsport
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Домашний
 http://5.188.221.43:8080/play/domashniy
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",MIXM
@@ -8289,226 +8187,6 @@ http://94.228.166.20:8000/play/a00y/index.m3u8
 http://94.228.166.20:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",Ю
 http://94.228.166.20:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",001 H1
-http://37.186.70.39:40/play/1/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",002  Shoghakat
-http://37.186.70.39:40/play/2/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",003 Armenia TV
-http://37.186.70.39:40/play/3/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",004 Shant HD
-http://37.186.70.39:40/play/4/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",005 ATV
-http://37.186.70.39:40/play/5/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",006 Kentron
-http://37.186.70.39:40/play/6/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",007 Yerkir Media
-http://37.186.70.39:40/play/7/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",008 Armenia Premium
-http://37.186.70.39:40/play/8/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",009 Armenia HayKino
-http://37.186.70.39:40/play/9/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",010 Armenia Cineman
-http://37.186.70.39:40/play/10/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",011 Կինոման
-http://37.186.70.39:40/play/11/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",012 Armenia Comedy
-http://37.186.70.39:40/play/12/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",013 Armenia JanTV
-http://37.186.70.39:40/play/13/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",014 Առաջին լրատվական
-http://37.186.70.39:40/play/14/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",016 5-ՐԴ ԱԼԻՔ
-http://37.186.70.39:40/play/16/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",017 BUN TV
-http://37.186.70.39:40/play/17/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",018 Գեղամա TV
-http://37.186.70.39:40/play/18/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",020   21TV
-http://37.186.70.39:40/play/20/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",021 ABN
-http://37.186.70.39:40/play/21/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",022 H2
-http://37.186.70.39:40/play/22/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",023 Free News
-http://37.186.70.39:40/play/23/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",024 Nor Hayastan
-http://37.186.70.39:40/play/24/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",025 Россия РТР
-http://37.186.70.39:40/play/25/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",026 Россия К
-http://37.186.70.39:40/play/26/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",027 MIR 24
-http://37.186.70.39:40/play/27/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",028 Первый канал
-http://37.186.70.39:40/play/28/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",029 Россия 24
-http://37.186.70.39:40/play/29/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",030 Рен ТВ
-http://37.186.70.39:40/play/30/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",031 Дикая рыбалка
-http://37.186.70.39:40/play/31/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",032 ТНТ Comedy
-http://37.186.70.39:40/play/32/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",033 ТНТ4  International
-http://37.186.70.39:40/play/33/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",034 РБК
-http://37.186.70.39:40/play/34/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",035 Звезда
-http://37.186.70.39:40/play/35/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",036 Поехали!
-http://37.186.70.39:40/play/36/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",037 5 international
-http://37.186.70.39:40/play/37/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",038 Дикая охота
-http://37.186.70.39:40/play/38/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",039 НТВ Мир
-http://37.186.70.39:40/play/39/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",042 Домашний
-http://37.186.70.39:40/play/42/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",043 Перец
-http://37.186.70.39:40/play/43/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",044  Mir
-http://37.186.70.39:40/play/44/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",045 Моя планета
-http://37.186.70.39:40/play/45/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",046 Ретро
-http://37.186.70.39:40/play/46/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",047 Оружие
-http://37.186.70.39:40/play/47/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",048 Арсенал
-http://37.186.70.39:40/play/48/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",049 Победа
-http://37.186.70.39:40/play/49/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",050 Кто есть кто
-http://37.186.70.39:40/play/50/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",051 Наука
-http://37.186.70.39:40/play/51/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",052  Tonus
-http://37.186.70.39:40/play/52/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",053 Телепутешествия
-http://37.186.70.39:40/play/53/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",054 Amedia Hit HD
-http://37.186.70.39:40/play/54/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",055 ԲԱԶՄՈՑ TV
-http://37.186.70.39:40/play/55/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",057 Известия
-http://37.186.70.39:40/play/57/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",058 365 дней ТВ
-http://37.186.70.39:40/play/58/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",059 ТВ-3
-http://37.186.70.39:40/play/59/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",060 Amedia Premium HD
-http://37.186.70.39:40/play/60/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",061 FOX
-http://37.186.70.39:40/play/61/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",062 A1
-http://37.186.70.39:40/play/62/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",063 A2
-http://37.186.70.39:40/play/63/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",064 Киномикс
-http://37.186.70.39:40/play/64/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",065 Киносерия
-http://37.186.70.39:40/play/65/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",066 Киносемья
-http://37.186.70.39:40/play/66/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",067 Киносвидание
-http://37.186.70.39:40/play/67/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",068 Кинокомедия
-http://37.186.70.39:40/play/68/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",069 Кинопремьера
-http://37.186.70.39:40/play/69/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",070 Кинохит
-http://37.186.70.39:40/play/70/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",071 Мужское Кино
-http://37.186.70.39:40/play/71/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",072 Родное Кино
-http://37.186.70.39:40/play/72/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",073  Наше Новое Кино
-http://37.186.70.39:40/play/73/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",074  Индийское кино
-http://37.186.70.39:40/play/74/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",075  Индия
-http://37.186.70.39:40/play/75/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",076  Дом кино
-http://37.186.70.39:40/play/76/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",077  Дом Кино Премиум
-http://37.186.70.39:40/play/77/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",078 Киноужас
-http://37.186.70.39:40/play/78/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",079 Музыка Первого
-http://37.186.70.39:40/play/79/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",080 Fast Sport
-http://37.186.70.39:40/play/80/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",083 Match Planeta
-http://37.186.70.39:40/play/83/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",084 Дикий
-http://37.186.70.39:40/play/84/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",085 БОКС ТВ ПЛЮС
-http://37.186.70.39:40/play/85/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",086 Шансон ТВ
-http://37.186.70.39:40/play/86/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",088 ՀԱՅ TV
-http://37.186.70.39:40/play/88/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",089 ՄՈՒԶԶՈՆ TV
-http://37.186.70.39:40/play/89/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",090 FitnesTV
-http://37.186.70.39:40/play/90/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",091 SONG TV Armenia
-http://37.186.70.39:40/play/91/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",093 BRiDGE TV Russki Hits
-http://37.186.70.39:40/play/93/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",094 Муз ТВ
-http://37.186.70.39:40/play/94/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",096 ԽաղԱլիք
-http://37.186.70.39:40/play/96/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",097 СТС Kids
-http://37.186.70.39:40/play/97/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",098 Карусель
-http://37.186.70.39:40/play/98/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",099 Nickelodeon
-http://37.186.70.39:40/play/99/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",100 O!
-http://37.186.70.39:40/play/100/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",101 Լայֆհաք
-http://37.186.70.39:40/play/101/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",102 Թավա TV
-http://37.186.70.39:40/play/102/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",103 Авто Плюс
-http://37.186.70.39:40/play/103/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",105 National Geographic
-http://37.186.70.39:40/play/105/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",107 Bridge TV
-http://37.186.70.39:40/play/107/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",108 Охотник и рыболов
-http://37.186.70.39:40/play/108/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",109 Загородный
-http://37.186.70.39:40/play/109/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",110 Зоо ТВ
-http://37.186.70.39:40/play/110/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",111 Eurosport 1
-http://37.186.70.39:40/play/111/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",112 Eurosport 2
-http://37.186.70.39:40/play/112/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",113 Animal Planet
-http://37.186.70.39:40/play/113/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",115 IstoriaTV
-http://37.186.70.39:40/play/115/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",116  Armenia Tuntunik
-http://37.186.70.39:40/play/116/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",117 CTC Love
-http://37.186.70.39:40/play/117/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",118 Discovery Channel
-http://37.186.70.39:40/play/118/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",119 RusskiPoman
-http://37.186.70.39:40/play/119/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",121  Ցայգ
-http://37.186.70.39:40/play/121/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",122  Fortuna TV
-http://37.186.70.39:40/play/122/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",123 Ararat
-http://37.186.70.39:40/play/123/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",124 Syunik
-http://37.186.70.39:40/play/124/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",.Black
 http://62.32.84.50:18000/play/a0h5/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-source=""catchup-days="":http-referrer="":http-user-agent="",.Red
